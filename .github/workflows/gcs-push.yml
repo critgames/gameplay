@@ -1,0 +1,21 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Sync
+        uses: patrickwyler/gcs-bucket-sync-action@1.4
+        with:
+          secrets: ${{ secrets.google_service_account_credentials }}
+          bucket: 'gameplay.critgames.com'
+          sync_dir_from: '_site'
+          exclude: '.*\.md$|\.gitignore$|\.git/.*$|\.github/.*$'
