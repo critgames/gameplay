@@ -13,7 +13,9 @@ jobs:
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
-        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        --rm \ # Ensures the container is cleaned up after it runs
+        -v "${{ github.workspace }}:/srv/jekyll" \
+        -v "${{ github.workspace }}/_site:/srv/jekyll/_site" \
         jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
 
   deploy:
@@ -22,12 +24,12 @@ jobs:
     name: Deploy
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+    - uses: actions/checkout@v2
 
-      - name: Sync
-        uses: patrickwyler/gcs-bucket-sync-action@1.4
-        with:
-          secrets: ${{ secrets.google_service_account_credentials }}
-          bucket: 'gameplay.critgames.com'
-          sync_dir_from: '_site'
-          exclude: '.*\.md$|\.gitignore$|\.git/.*$|\.github/.*$'
+    - name: Sync
+      uses: patrickwyler/gcs-bucket-sync-action@1.4
+      with:
+        secrets: ${{ secrets.google_service_account_credentials }}
+        bucket: 'gameplay.critgames.com'
+        sync_dir_from: '_site'
+        exclude: '.*\.md$|\.gitignore$|\.git/.*$|\.github/.*$'
