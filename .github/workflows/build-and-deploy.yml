@@ -11,8 +11,17 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v2
-      - name: jekyll build
-        uses: mbursi/jekyll-build-only-action@v1.0.0
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0'  # Use the appropriate Ruby version for your project
+      - name: Install dependencies
+        run: |
+          gem install bundler
+          bundle install
+      - name: Jekyll build
+        run: |
+          jekyll build --trace --verbose
       - name: deploy
         uses: patrickwyler/gcs-bucket-sync-action@1.4
         with:
