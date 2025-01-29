@@ -16,10 +16,10 @@ header:
 
 ## Campaigns
 ### [Escaping Wilderun](./games/escaping-wilderun/)
-<a href="./games/escaping-wilderun/" title="Escaping Wilderun">![Escaping Wilderun]({{ site.baseurl }}/assets/images/escaping-wilderun/header.webp)</a>
+<a href="/games/escaping-wilderun/" title="Escaping Wilderun">![Escaping Wilderun]({{ '/assets/images/escaping-wilderun/header.webp' | relative_url }})</a>
 
 <br />
 
 ## One-Shots
 ### [Downfall At Doomspire](./games/escaping-wilderun/)
-<a href="./games/downfall-at-doomspire/" title="Downfall At Doomspire">![Downfall At Doomspire]({{ site.baseurl }}/assets/images/downfall-at-doomspire/header.webp)</a>
+<a href="./games/downfall-at-doomspire/" title="Downfall At Doomspire">![Downfall At Doomspire]({{'/assets/images/downfall-at-doomspire/header.webp' | relative_url }})</a>
