@@ -32,8 +32,12 @@ gcloud auth activate-service-account --key-file=/mnt/disk/web/gameplay/key.json
 
 ## Mount
 '''
+
+'''
+
+'''
 # Mount the GCS bucket
-gcsfuse gameplay.critgames.com /mnt/disk/gameplay
+gcsfuse -o allow_other --implicit-dirs gameplay.critgames.com /mnt/disk/gameplay
 '''
 Add to `/etc/rc.local`
 

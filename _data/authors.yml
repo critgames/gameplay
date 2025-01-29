@@ -1,6 +1,6 @@
 critgames:
   name   : "Crit Games"
-  avatar : {{"/assets/images/logo_512x512.jpg" | relative_url }}}}
+  avatar : "/assets/images/logo_512x512.jpg"
   bio    : "Game On!"
   links:
     - label: "critgames.com"
@@ -18,7 +18,7 @@ critgames:
 
 wotc:
   name   : "Wizards of the Coast"
-  avatar : {{"/assets/images/dnd-512x512.png" | relative_url }}}}
+  avatar : "/assets/images/dnd-512x512.png"
   bio    : "Open Game License (OGL)"
   links:
     - label: "OGL"
