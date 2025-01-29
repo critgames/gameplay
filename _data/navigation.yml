@@ -1,0 +1,15 @@
+main:
+  - title: "Games"
+    url: "/"
+  - title: "Chat"
+    url: /chat/
+
+posts:
+  - title: "View by"
+    children:
+      - title: "Date"
+        url: /posts/
+      - title: "Categories"
+        url: /categories/
+      - title: "Tags"
+        url: /tags/

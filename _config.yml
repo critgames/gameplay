@@ -1,3 +1,150 @@
-# _config.yml
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-title: "Jekyll Actions Demo"
+# Settings
+lang: en-US
+title: Gameplay
+subtitle: "Game On!"
+title_separator: "|"
+
+# URL
+baseurl: "/gameplay"
+url: "https://critgames.com"
+logo: "/assets/images/logo.png"
+
+# Meta Data
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to Dungeon Toolbox, your destination for Dungeons & Dragons Fifth Edition (DnD 5E) resources and AI-enhanced tools to enhance your tabletop roleplaying adventures. Explore a wealth of features including dice rollers, fantasy name generators, hit location trackers, critical hit calculators, and wild magic surge generators, ensuring every game session is filled with excitement and unpredictability.
+  Stay organized with our initiative order tracker, combat monster database, and campaign management tools. Spark your imagination with our extensive collection of generators, including loot, village and city maps, battlemaps, character portraits, shop inventories, and dynamic dungeon master narratives.
+  Fuel your creativity with an array of generators for loot, character portraits, shop generators, and captivating dungeon master descriptions and narratives. Bring your adventures to life with meticulously crafted battlemaps, encounters, and story arcs tailored to your preferences.
+  Delve into an extensive reference library boasting comprehensive guides on DnD rules, character classes, equipment, spells, monsters, bestiary entries, and magical items. Whether you're a seasoned dungeon master or a novice adventurer, [Website Name] equips you with the tools and knowledge to embark on unforgettable quests and forge epic tales in the world of Dungeons & Dragons Fifth Edition.
+
+# User Info
+name: Crit Games
+email: contact@critgames.com
+twitter_username: critgamesllc
+# github_username:  jekyll
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Beautrification
+permalink: pretty
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Archives
+category_archive:
+  type: jekyll-archives
+  path: /categories/
+tag_archive:
+  type: jekyll-archives
+  path: /tags/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
+# Theme Footer
+footer:
+  links:
+    - label: "Critgames"
+      icon: "fas fa-fw fa-dice-d20"
+      url: "https://critgames.com"
+    - label: "YouTube"
+      icon: "fa-brands fa-youtube"
+      url: "http://youtube.critgames.com"
+    - label: "Twitch"
+      icon: "fa-brands fa-twitch"
+      url: "http://twitch.critgames.com"
+    - label: "Tik Tok"
+      icon: "fab fa-fw fa-tiktok"
+      url: "http://tiktok.critgames.com"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "http://instagram.critgames.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "http://twitter.critgames.com"
+
+
+# Build settings
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "neon" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-toc
+  - jemoji
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+exclude:
+    - artwork/
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

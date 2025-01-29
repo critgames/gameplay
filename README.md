@@ -11,8 +11,3 @@ $ bundle exec jekyll build
 ```
 $ bundle exec jekyll serve --force_polling
 ```
-
-## Push to Cloud (Manual)
-```
-$ gsutil -m cp -r ./_site/* gs://gameplay.critgames.com
-```

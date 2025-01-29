@@ -1,5 +1,10 @@
 # Google Cloud Storage
 
+## Manual Push
+```
+$ gsutil -m cp -r ./_site/* gs://gameplay.critgames.com
+```
+
 ## Install
 '''
 # Update the apt package index

@@ -1,9 +1,25 @@
 ---
+title: "Games"
+layout: splash
+author_profile: true
+toc: false
+tagline: "Adventure Awaits. Streaming actual play for tabletop roleplaying games. Game On!"
+header:
+  overlay_image: /assets/images/headers/dungeon.webp
+  overlay_filter: 0.6
+  actions:
+    - label: "Watch on YouTube"
+      url: "http://youtube.critgames.com"
+    - label: "Watch on Twitch"
+      url: "http://twitch.critgames.com"
 ---
 
-Welcome to My Home Page
+## Campaigns
+### [Escaping Wilderun](./games/escaping-wilderun/)
+<a href="./games/escaping-wilderun/" title="Escaping Wilderun">![Escaping Wilderun]({{ site.baseurl }}/assets/images/escaping-wilderun/header.webp)</a>
 
-{% assign date = '2020-04-13T10:20:00Z' %}
+<br />
 
-- Original date - {{ date }}
-- With timeago filter - {{ date | timeago }}
+## One-Shots
+### [Downfall At Doomspire](./games/escaping-wilderun/)
+<a href="./games/downfall-at-doomspire/" title="Downfall At Doomspire">![Downfall At Doomspire]({{ site.baseurl }}/assets/images/downfall-at-doomspire/header.webp)</a>
