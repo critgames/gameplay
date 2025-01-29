@@ -20,9 +20,9 @@
 
 # Settings
 lang: en-US
-title: Gameplay
+title: Crit Games
 subtitle: "Game On!"
-title_separator: "|"
+title_separator: "-"
 
 # URL
 baseurl: "/gameplay"

@@ -1,5 +1,5 @@
 ---
-title: "Games"
+title: "Gameplay"
 layout: splash
 author_profile: true
 toc: false
