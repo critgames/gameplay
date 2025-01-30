@@ -29,12 +29,13 @@ baseurl: "/gameplay"
 url: "https://critgames.com"
 logo: "/assets/images/logo.png"
 
+# Scripts
+head_scripts:
+  https://apis.google.com/js/platform.js
+
 # Meta Data
-description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to Dungeon Toolbox, your destination for Dungeons & Dragons Fifth Edition (DnD 5E) resources and AI-enhanced tools to enhance your tabletop roleplaying adventures. Explore a wealth of features including dice rollers, fantasy name generators, hit location trackers, critical hit calculators, and wild magic surge generators, ensuring every game session is filled with excitement and unpredictability.
-  Stay organized with our initiative order tracker, combat monster database, and campaign management tools. Spark your imagination with our extensive collection of generators, including loot, village and city maps, battlemaps, character portraits, shop inventories, and dynamic dungeon master narratives.
-  Fuel your creativity with an array of generators for loot, character portraits, shop generators, and captivating dungeon master descriptions and narratives. Bring your adventures to life with meticulously crafted battlemaps, encounters, and story arcs tailored to your preferences.
-  Delve into an extensive reference library boasting comprehensive guides on DnD rules, character classes, equipment, spells, monsters, bestiary entries, and magical items. Whether you're a seasoned dungeon master or a novice adventurer, [Website Name] equips you with the tools and knowledge to embark on unforgettable quests and forge epic tales in the world of Dungeons & Dragons Fifth Edition.
+description: " A collection of epic tabletop RPG actual play videos, featuring D&D, Pathfinder, and indie TTRPGs with immersive storytelling."
+keywords: "tabletop RPG, actual play, D&D streams, Pathfinder campaigns, roleplaying games, RPG storytelling"
 
 # User Info
 name: Crit Games
@@ -71,6 +72,34 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _escaping-wilderun
+  - scope:
+      path: "_escaping-wilderun"
+      type: escaping-wilderun
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      related: true
+  # _escaping-wilderun
+  - scope:
+      path: "_one-shots"
+      type: one-shots
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      related: true
+
+
+# Collections
+collections:
+  escaping-wilderun:
+    output: true
+    permalink: /:collection/:path/
+  one-shots:
+    output: true
+    permalink: /:collection/:path/
 
 # Archives
 category_archive:
