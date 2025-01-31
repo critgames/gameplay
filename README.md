@@ -1,5 +1,5 @@
 # Gameplay
-Actual Play for Roleplaying Games for [Gamplay](https://critgames.com)/gameplay) website made with [Jeykll](https://jekyllrb.com/)
+Actual Play for Tabletop Roleplaying Games [critgames.com/gameplay](https://critgames.com/gameplay) website made with [Jeykll](https://jekyllrb.com/)
 
 ## Build (Production)
 ```
