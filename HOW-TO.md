@@ -44,5 +44,5 @@ fusermount -u /mnt/disk/gameplay
 ## Mount Automatically at boot
 Add to /etc/fstab
 ```
-gameplay.critgames.com /mnt/disk/gameplay gcsfuse rw,_netdev,allow_other,uid=1001,gid=33
+gameplay.critgames.com /mnt/disk/gameplay gcsfuse rw,_netdev,allow_other,implicit_dirs,uid=1001,gid=33
 ```
