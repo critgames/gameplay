@@ -1,6 +1,7 @@
 # Gameplay
-![Live Streaming Games](https://github.com/critgames/gameplay/blob/main/assets/images/headers/dungeon.webp?raw=true)
-Actual Play for Tabletop Roleplaying Games hosted at [critgames.com/gameplay](https://critgames.com/gameplay). This website made with [Jeykll](https://jekyllrb.com/) and is automatically updated on commits.
+![Streaming Gameplay](https://github.com/critgames/gameplay/blob/main/assets/images/headers/dungeon.webp?raw=true)
+
+Actual Play for Tabletop Roleplaying Games with website located at [critgames.com/gameplay](https://critgames.com/gameplay).
 ---
 
 ## Watch Episodes
@@ -14,7 +15,7 @@ Streaming live episdoes on [YouTube](http://youtube.critgames.com) and [Twitch](
 ---
 
 ## Local Development (Manual)
-Run the website locally for local developement.
+This website made with [Jeykll](https://jekyllrb.com/) and is automatically updated with commits. Run the website locally for local developement.
 
 ### Run Website Locally
 ```
