@@ -11,19 +11,20 @@ header:
     - label: "Subscribe"
       url: "https://www.youtube.com/@CritGamesllc?sub_confirmation=1"
 ---
-# Watch Episodes
-*Streaming live episdoes on YouTube and Twitch. Join us every other week (mostly) on Friday at 6:30 PM PST.*
-<!--div class=>
-<a href="http://youtube.critgames.com" title="YouTube">![YouTube]({{'/assets/images/downfall-at-doomspire/header.webp' | relative_url }})</a>
-<a href="http://twitch.critgames.com" title="Twitter">![Twitter]({{'/assets/images/downfall-at-doomspire/header.webp' | relative_url }})</a>
-</div-->
+# Watch Us!
+---
+*Streaming live episdoes on [YouTube](http://youtube.critgames.com) and [Twitch](http://twitch.critgames.com). Join us every other week (mostly) on Fridays at 6:00 PM (Pacific Time). [Subscribe](https://www.youtube.com/@CritGamesllc?sub_confirmation=1) to get notified when we go live!*
+<br />
+[<img alt="YouTube" height="256px" width="256px" src="assets/images/youtube.webp" />](https://www.youtube.com/@CritGamesllc)[<img alt="Twitter" height="256px" width="256px" src="assets/images/twitter.webp" />](https://www.twitch.tv/critgamesllc)
 
-## Campaigns
+# Campaigns
+---
 ### [Escaping Wilderun](./escaping-wilderun)
 <a href="./escaping-wilderun/" title="Escaping Wilderun">![Escaping Wilderun]({{ '/assets/images/escaping-wilderun/header.webp' | relative_url }})</a>
 
 <br />
 
-## [One-Shots](./one-shots)
+# [One-Shots](./one-shots)
+---
 ### [Downfall At Doomspire](./one-shots/downfall-at-doomspire/)
 <a href="./one-shots/downfall-at-doomspire/" title="Downfall At Doomspire">![Downfall At Doomspire]({{'/assets/images/downfall-at-doomspire/downfall-at-doomspire.webp' | relative_url }})</a>
