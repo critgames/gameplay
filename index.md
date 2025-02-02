@@ -26,5 +26,5 @@ header:
 
 # [One-Shots](./one-shots)
 ---
-### [Downfall At Doomspire](./one-shots/Downfall-At-Doomspire/)
-<a href="./one-shots/Downfall-At-Doomspire/" title="Downfall At Doomspire">![Downfall At Doomspire]({{'/assets/images/downfall-at-doomspire/downfall-at-doomspire.webp' | relative_url }})</a>
+### [Downfall At Doomspire](./one-shots/downfall-at-doomspire/)
+<a href="./one-shots/downfall-at-doomspire/" title="Downfall At Doomspire">![Downfall At Doomspire]({{'/assets/images/downfall-at-doomspire/downfall-at-doomspire.webp' | relative_url }})</a>

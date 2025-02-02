@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/gameplay/escaping-wilderun/The%20Return/</loc>
+<loc>http://localhost:4000/gameplay/escaping-wilderun/01-the-return/</loc>
 <lastmod>2025-01-17T17:30:38-08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/gameplay/escaping-wilderun/War%20&amp;%20Peace/</loc>
+<loc>http://localhost:4000/gameplay/escaping-wilderun/02-war-and-peace/</loc>
 <lastmod>2025-01-24T17:30:38-08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/gameplay/one-shots/Downfall-At-Doomspire/</loc>
+<loc>http://localhost:4000/gameplay/one-shots/downfall-at-doomspire/</loc>
 <lastmod>2025-01-03T17:30:38-08:00</lastmod>
 </url>
 <url>
