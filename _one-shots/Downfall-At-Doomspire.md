@@ -1,13 +1,13 @@
 ---
 layout: single
 title:  "Downfall At Doomspire"
-excerpt: "Final hours for the Dark Lord and his band of villains. Liquid, hot magma at the heart of evil."
+excerpt: "Final hours for the Dark Lord and his motley crew of villains as the forces of darkness and light clash. Liquid, hot magma at the heart of evil."
 date:   2025-01-03 18:30:38 -0700
 collections: one-shot
 author: critgames
 header:
   overlay_image: /assets/images/downfall-at-doomspire/header.webp
-  teaser: /assets/images/downfall-at-doomspire/thumbnail.webp
+  teaser: /assets/images/downfall-at-doomspire/thumbnail.png
   actions:
     - label: "Subscribe"
       url: "https://www.youtube.com/@CritGamesllc?sub_confirmation=1"
