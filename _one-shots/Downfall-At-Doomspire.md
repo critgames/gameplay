@@ -7,8 +7,10 @@ collections: one-shot
 author: critgames
 header:
   overlay_image: /assets/images/downfall-at-doomspire/header.webp
-  image: /assets/images/downfall-at-doomspire/header.webp
-  teaser: /assets/images/downfall-at-doomspire/header.webp
+  teaser: /assets/images/downfall-at-doomspire/thumbnail.webp
+  actions:
+    - label: "Subscribe"
+      url: "https://www.youtube.com/@CritGamesllc?sub_confirmation=1"
 ---
 
 # Downfall At Doomspire

@@ -1,20 +1,17 @@
 ---
 title: One-Shots
-tagline: "One shot adventures!"
+tagline: "One Night, One Epic Tale!"
 layout: collection
 permalink: /one-shots/
 collection: one-shots
 entries_layout: grid
 classes: wide
-author_profile: false
+author: critgames
 toc: false
 header:
   overlay_image: /assets/images/headers/dungeon.webp
   overlay_filter: 0.6
-sidebar:
-  - title: ""
-    image: "/assets/images/logo.png"
-    image_alt: "Gamplay Posts"
-  - title: "Archives"
-    nav: "posts"
+  actions:
+    - label: "Subscribe"
+      url: "https://www.youtube.com/@CritGamesllc?sub_confirmation=1"
 ---
