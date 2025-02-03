@@ -15,18 +15,41 @@ header:
 ---
 
 # Characters
-> Bound by claw, fang, and forgotten pasts, they walk the wilderness where legends are made.
+> "Bound by claw, fang, and forgotten pasts, they walk the wilderness where legends are made."
 
 ## Aodhan
+> "Even the mightiest trees fall, but their roots remember."
 
+### Firbolg Druid
+![image]({{ '/assets/images/escaping-wilderun/s1e0-aodhan.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
+
+Aodhan (a-on) stands an imposing 10 feet tall, his ashen skin reflecting his fiery nature. Ram-like horns curl from his head, and a wild beard frames his smiling face. His tattered, burn-marked robes release the occasional ember, carrying a faint smoky scent. His dark eyes, flecked with glowing embers, radiate both warmth and intensity.
+
+Despite his size, Aodhan moves with quiet grace, careful not to disturb his surroundings. His soot-stained hands leave traces of ash, a reminder of his bond with fire and renewal. Barefoot and modestly dressed, he carries only a burlap bag. He pauses often, observing nature with quiet reverence. Gentle and caring, he becomes a fierce force against corruption, ready to restore balance.
+
+<!--
 ## Clarence
+> "<Catchphrase>"
+### Tortle Cleric
+![image]({{ '/assets/images/escaping-wilderun/s1e0-clarence.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
 
 ## Eryndor
+### Human Warlock
+![image]({{ '/assets/images/escaping-wilderun/s1e0-eryndor.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
 
 ## Kingsley
+### Dragonborn Fighter
+![image]({{ '/assets/images/escaping-wilderun/s1e0-kingsley.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
 
 ## Mars
+### Sorcerer Quasit
+![image]({{ '/assets/images/escaping-wilderun/s1e0-mars.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
 
 ## Wraithfoot
+### Bugbear Theif
+![image]({{ '/assets/images/escaping-wilderun/s1e0-wraithfoot.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
 
 ## Zoro
+### Human Wizard
+![image]({{ '/assets/images/escaping-wilderun/s1e0-zoro.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
+-->
