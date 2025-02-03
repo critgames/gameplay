@@ -16,7 +16,7 @@ header:
 
 # Characters
 ---
-<a href="./00-characters/" title="Escaping Wilderun Characters">![Escaping Wilderun Characters]({{ '/assets/images/escaping-wilderun/s1e0-characters-header.webp' | relative_url }})</a>
+<a href="./characters" title="Escaping Wilderun Characters">![Escaping Wilderun Characters]({{ '/assets/images/escaping-wilderun/s1e0-characters-header.webp' | relative_url }})</a>
 
 # Episodes
 ---
