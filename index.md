@@ -19,12 +19,12 @@ header:
 
 # Campaigns
 ---
-### [Escaping Wilderun](./escaping-wilderun)
+### [Escaping Wilderun]({{'/escaping-wilderun' | relative_url }})
 <a href="./escaping-wilderun/" title="Escaping Wilderun">![Escaping Wilderun]({{ '/assets/images/escaping-wilderun/header.webp' | relative_url }})</a>
 
 <br />
 
 # [One-Shots](./one-shots)
 ---
-### [Downfall At Doomspire](./one-shots/downfall-at-doomspire/)
+### [Downfall At Doomspire]({{'/one-shots/downfall-at-doomspire/'  | relative_url }})
 <a href="./one-shots/downfall-at-doomspire/" title="Downfall At Doomspire">![Downfall At Doomspire]({{'/assets/images/downfall-at-doomspire/downfall-at-doomspire.webp' | relative_url }})</a>
