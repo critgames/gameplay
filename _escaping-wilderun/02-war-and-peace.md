@@ -15,13 +15,10 @@ header:
 ---
 
 # War & Peace
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/zm22v5Y3KsU?si=y4Yak_luhpcFEDjk&amp;start=317" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-<!--div class="g-ytsubscribe" data-channelid="UCrVp_nuT4T1h8I5a-afwluA" data-layout="default" data-theme="dark" data-count="hidden"></div-->
-
-## Episode 2
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/zm22v5Y3KsU?si=y4Yak_luhpcFEDjk&amp;start=317" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 *Can the Misfits find the source of corruption effecting the forest they woke up in during a di-lunar eclipse? Will they kill everything in sight, choose sides, or make peace?*
 
-## Adventure Log
+## Episode 2
 
 ![image.png]({{ '/assets/images/escaping-wilderun/s1e2-column.png' | relative_url }})
 ![image.png]({{ '/assets/images/escaping-wilderun/s1e2-orb.png' | relative_url }})
