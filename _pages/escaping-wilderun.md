@@ -13,3 +13,10 @@ header:
     - label: "Subscribe"
       url: "https://www.youtube.com/@CritGamesllc?sub_confirmation=1"
 ---
+
+# Characters
+---
+<a href="./00-characters/" title="Escaping Wilderun Characters">![Escaping Wilderun Characters]({{ '/assets/images/escaping-wilderun/s1e0-characters-header.webp' | relative_url }})</a>
+
+# Episodes
+---
