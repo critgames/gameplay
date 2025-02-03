@@ -15,12 +15,10 @@ header:
 ---
 
 # The Return
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/iULgMkbGKyo?si=DlidpTtB8bDkPvYS&amp;start=422" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-
-## Episode 1
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/iULgMkbGKyo?si=DlidpTtB8bDkPvYS&amp;start=422" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 *The start of a new campaign with a Bugbear Theif, Dragonborn Fighter, Firbolg Druid, Human Warlock, Human Wizard, Sorcerer Quasit, and a Tortle Cleric.*
 
-## Adventure Log
+## Episode 1
 *The following is an excerpt from “Escape from Wilderun”, as told by Aohdan, druid of the first order of the circle of Glenn Affic.*
 
 ### The Summoning Circle
