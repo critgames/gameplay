@@ -51,10 +51,10 @@ Despite his size, Aodhan moves with quiet grace, careful not to disturb his surr
 -->
 
 ## Kingsley (Dragonborn Fighter)
-> "Bring honor to my bloodline."
+> "Bringing honor to my bloodline."
 
 ![image]({{ '/assets/images/escaping-wilderun/s1e0-kingsley.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
-Kingsley (Rex) is a towering red Dragonborn with deep crimson scales that shimmer like molten embers under the sunlight. His broad shoulders and muscular frame make his presence undeniable, while his powerful tail subtly sways with each step. His horns, dark and ridged like charred obsidian, sweep back from his skull, framing a face carved with sharp, angular features. His piercing amber eyes burn that makes even seasoned warriors hesitate.
+Kingsley the Rex is a towering red Dragonborn with deep crimson scales that shimmer like molten embers under the sunlight. His broad shoulders and muscular frame make for a formidable presence. His red horns sweep back from his skull, framing a face carved with sharp, angular features. His piercing amber eyes burn that makes even seasoned warriors hesitate. Kingsley carries an assortment of martial weapons at the ready ranging from board and sword, to other deadly implements that he wields with deadly expertise.
 
 Kingsley is fiercely proud and unyielding, embodying the relentless power of fire itself. He approaches challenges head-on, never backing down from a fight, and despises cowardice in any form. His warrior’s spirit is fueled by an unyielding sense of honor, though his temper can be as volatile as the flames he breathes. Loyalty is his foundation—once he considers someone an ally, he will stand by them to the death.
 
