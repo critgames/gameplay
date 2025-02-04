@@ -21,9 +21,6 @@ header:
 > "Even the mightiest trees fall, but their roots remember."
 
 ![image]({{ '/assets/images/escaping-wilderun/s1e0-aodhan.webp' | relative_url }}){: style="float: left; padding: 20px;" width="33%"}
-
-### Description
-
 Aodhan (a-on) stands an imposing 10 feet tall, his ashen skin reflecting his fiery nature. Ram-like horns curl from his head, and a wild beard frames his smiling face. His tattered, burn-marked robes release the occasional ember, carrying a faint smoky scent. His dark eyes, flecked with glowing embers, radiate both warmth and intensity.
 
 Despite his size, Aodhan moves with quiet grace, careful not to disturb his surroundings. His soot-stained hands leave traces of ash, a reminder of his bond with fire and renewal. Barefoot and modestly dressed, he carries only a burlap bag. He pauses often, observing nature with quiet reverence. Gentle and caring, he becomes a fierce force against corruption, ready to restore balance.
@@ -38,29 +35,26 @@ Despite his size, Aodhan moves with quiet grace, careful not to disturb his surr
 > "<QUOTE>"
 
 ![image]({{ '/assets/images/escaping-wilderun/s1e0-clarence.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
-
-### Description
+<DESCRIPTION>
 
 ### Goals
+<GOALS>
 
 ## Eryndor (Human Warlock)
 > "<QUOTE>"
 
 ![image]({{ '/assets/images/escaping-wilderun/s1e0-eryndor.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
-
-### Description
+<DESCRIPTION>
 
 ### Goals
-
+<GOALS>
 -->
 
 ## Kingsley (Dragonborn Fighter)
 > "Bring honor to my bloodline."
 
 ![image]({{ '/assets/images/escaping-wilderun/s1e0-kingsley.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
-
-### Description
-Kingsley (Rex) is a towering red Dragonborn with deep crimson scales that shimmer like molten embers under the sunlight. His broad shoulders and muscular frame make his presence undeniable, while his powerful tail subtly sways with each step. His horns, dark and ridged like charred obsidian, sweep back from his skull, framing a face carved with sharp, angular features. His piercing amber eyes burn with an intensity that makes even seasoned warriors hesitate.
+Kingsley (Rex) is a towering red Dragonborn with deep crimson scales that shimmer like molten embers under the sunlight. His broad shoulders and muscular frame make his presence undeniable, while his powerful tail subtly sways with each step. His horns, dark and ridged like charred obsidian, sweep back from his skull, framing a face carved with sharp, angular features. His piercing amber eyes burn that makes even seasoned warriors hesitate.
 
 Kingsley is fiercely proud and unyielding, embodying the relentless power of fire itself. He approaches challenges head-on, never backing down from a fight, and despises cowardice in any form. His warrior’s spirit is fueled by an unyielding sense of honor, though his temper can be as volatile as the flames he breathes. Loyalty is his foundation—once he considers someone an ally, he will stand by them to the death.
 
@@ -74,19 +68,16 @@ Kingsley is fiercely proud and unyielding, embodying the relentless power of fir
 > "<QUOTE>"
 
 ![image]({{ '/assets/images/escaping-wilderun/s1e0-mars.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
-
-### Description
+<DESCRIPTION>
 
 ### Goals
-
+<GOALS>
 <!-->
 
 ## Wraithfoot (Bugbear Theif)
 > "Life is a game of survival, and I will do what it takes to survive in this world."
 
 ![image]({{ '/assets/images/escaping-wilderun/s1e0-wraithfoot.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
-
-### Description
 Wraithfoot stands at 6'2", lean and wiry, his dark, shaggy fur mottled with gray. His pointed ears twitch at every sound, and though he appears friendly, his sharp yellow eyes sometimes glint with wariness. He wears a dark hooded cloak and well-worn leather armor, blending into the shadows. Pouches at his belt carry lockpicks, throwing knives, and the occasional stolen trinket.
 
 Wraithfoot excels at mimicry, reading social cues and imitating others with ease. Yet beneath this facade lies deep isolation—he struggles with genuine connections, viewing relationships as transactions. Though charming when needed, he often misjudges trust, leading to missteps. Loyal to the guild that took him in, he seeks purpose but remains emotionally distant, treating social interactions as puzzles to solve.
@@ -101,10 +92,10 @@ Wraithfoot excels at mimicry, reading social cues and imitating others with ease
 > "<QUOTE>"
 
 ![image]({{ '/assets/images/escaping-wilderun/s1e0-zoro.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
-
-### Description
+<DESCRIPTION>
 
 ### Goals
+<GOALS>
 
 -->
 
