@@ -34,17 +34,28 @@ Despite his size, Aodhan moves with quiet grace, careful not to disturb his surr
 * Find the source source of the dark magic that is corrupting his home and desrtoy it.
 
 <!--
-## Clarence
-> "<Catchphrase>"
-### Tortle Cleric
+## Clarence (Tortle Cleric)
+> "<QUOTE>"
+
 ![image]({{ '/assets/images/escaping-wilderun/s1e0-clarence.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
 
-## Eryndor
-### Human Warlock
+### Description
+
+### Goals
+
+## Eryndor (Human Warlock)
+> "<QUOTE>"
+
 ![image]({{ '/assets/images/escaping-wilderun/s1e0-eryndor.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
+
+### Description
+
+### Goals
+
 -->
+
 ## Kingsley (Dragonborn Fighter)
-> "Even the mightiest trees fall, but their roots remember."
+> "Bring honor to my bloodline."
 
 ![image]({{ '/assets/images/escaping-wilderun/s1e0-kingsley.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
 
@@ -59,17 +70,42 @@ Kingsley is fiercely proud and unyielding, embodying the relentless power of fir
 * Return to my lands with honor and be crowned king
 
 <!--
-## Mars
-### Sorcerer Quasit
+## Mars (Sorcerer Quasit)
+> "<QUOTE>"
+
 ![image]({{ '/assets/images/escaping-wilderun/s1e0-mars.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
 
-## Wraithfoot
-### Bugbear Theif
+### Description
+
+### Goals
+
+<!-->
+
+## Wraithfoot (Bugbear Theif)
+> "Life is a game of survival, and I will do what it takes to survive in this world."
+
 ![image]({{ '/assets/images/escaping-wilderun/s1e0-wraithfoot.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
 
-## Zoro
-### Human Wizard
+### Description
+Wraithfoot stands at 6'2", lean and wiry, his dark, shaggy fur mottled with gray. His pointed ears twitch at every sound, and though he appears friendly, his sharp yellow eyes sometimes glint with wariness. He wears a dark hooded cloak and well-worn leather armor, blending into the shadows. Pouches at his belt carry lockpicks, throwing knives, and the occasional stolen trinket.
+
+Wraithfoot excels at mimicry, reading social cues and imitating others with ease. Yet beneath this facade lies deep isolation—he struggles with genuine connections, viewing relationships as transactions. Though charming when needed, he often misjudges trust, leading to missteps. Loyal to the guild that took him in, he seeks purpose but remains emotionally distant, treating social interactions as puzzles to solve.
+
+### Goals
+* Progress and be an expert in the guild.
+* Grow my skills until life and death are at my disposal.
+* Get to the point where I can choose when I’m around strangers, and can be alone when I want to.
+
+<!--
+## Zoro (Human Wizard)
+> "<QUOTE>"
+
 ![image]({{ '/assets/images/escaping-wilderun/s1e0-zoro.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
+
+### Description
+
+### Goals
+
 -->
 
 ## [Escaping Wilderun]({{'/escaping-wilderun' | relative_url }})
