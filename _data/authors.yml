@@ -3,7 +3,7 @@ critgames:
   avatar : "/assets/images/logo_512x512.jpg"
   bio    : "Game On!"
   links:
-    - label: "critgames.com"
+    - label: "Website"
       icon: "fas fa-fw fa-dice-d20"
       url: "https://critgames.com"
     - label: "YouTube"
@@ -29,4 +29,4 @@ wotc:
   links:
     - label: "OGL"
       icon: "fas fa-fw fa-link"
-      url: "/reference/dnd5e/open-game-license/"
+      url: "https://www.dndbeyond.com/resources/1781-systems-reference-document-srd"
