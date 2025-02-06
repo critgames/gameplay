@@ -3,7 +3,7 @@ layout: single
 title:  "War & Peace"
 excerpt: "Can the Misfits find the source of corruption effecting the forest they woke up in during a di-lunar eclipse? Will they kill everything in sight, choose sides, or make peace?"
 date:   2025-01-24 18:30:38 -0700
-collections: one-shot
+collections: escaping-wilderun
 author: critgames
 toc: true
 header:

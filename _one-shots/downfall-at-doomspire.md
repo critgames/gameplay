@@ -3,7 +3,7 @@ layout: single
 title:  "Downfall At Doomspire"
 excerpt: "Final hours for the Dark Lord and his motley crew of villains as the forces of darkness and light clash. Liquid, hot magma at the heart of evil."
 date:   2025-01-03 18:30:38 -0700
-collections: one-shot
+collections: one-shots
 author: critgames
 toc: true
 header:

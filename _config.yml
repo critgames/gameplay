@@ -81,7 +81,7 @@ defaults:
       author_profile: true
       share: true
       related: true
-  # _escaping-wilderun
+  # _one-shots
   - scope:
       path: "_one-shots"
       type: one-shots

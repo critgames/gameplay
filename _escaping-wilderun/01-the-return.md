@@ -3,7 +3,7 @@ layout: single
 title:  "The Return"
 excerpt: "The start of a new campaign with a Bugbear Theif, Dragonborn Fighter, Firbolg Druid, Human Warlock, Human Wizard, Sorcerer Quasit, and a Tortle Cleric."
 date:   2025-01-17 18:30:38 -0700
-collections: one-shot
+collections: escaping-wilderun
 author: critgames
 toc: true
 header:
