@@ -30,16 +30,20 @@ Despite his size, Aodhan moves with quiet grace, careful not to disturb his surr
 * **Firemancer** - Learn new magical spells to control how fires spreads and stop fires.
 * **Root Out Dark Magic Once and For All** - Find the source source of the dark magic that is corrupting his home and destroy it.
 
-<!--
+
 ## Clarence (Tortle Cleric)
-> "<QUOTE>"
+> "I would like to get out of my shell and heal you."
 
 ![image]({{ '/assets/images/escaping-wilderun/s1e0-clarence.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
-<DESCRIPTION>
+Clarence stands perhaps five and a half feet tall and his ancient shell is gouged in many places, a silent testament to extensive travels and untold stories. Yet, his eyes shine with an unexpected wisdom and intelligence, hinting at depths that his frail exterior belies. Although limited by his form, he is dedicated with a strong spirit.
+
+Clarence possesses a demeanor marked by thoughtfulness. He is slow of speech, choosing his words carefully, and seems to prefer listening and assessing before offering his insights. There's an inquisitive glint in his eyes, a quiet attentiveness that suggests he is always observing, always pondering. Despite any surrounding chaos, he remains pensive, often wondering about the deeper meanings behind events. He is the embodiment of a thoughtful cleric, marked by a dedication to purpose.
 
 ### Goals
-<GOALS>
--->
+* **Student of Medicine** - Learn. Learn. Learn. Especially healing.
+* **A Pilgrim's Journey** - Travel to various libraries, monasteries, schools, and hospitals to better combine mundane, arcane, divine healing.
+* **Better Healing** - Find a better way to heal that doesn’t rely on divine magic.
+
 ## Eryndor (Human Warlock)
 > "Honor bound me once. Now, only thorns remain."
 
