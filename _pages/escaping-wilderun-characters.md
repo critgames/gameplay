@@ -63,16 +63,17 @@ Kingsley is fiercely proud and unyielding, embodying the relentless power of fir
 * Slay Eldrgander (Fire Serpent), the anceint red dragon
 * Return to my lands with honor and be crowned king
 
-<!--
+
 ## Mars (Sorcerer Quasit)
-> "<QUOTE>"
+> "*Hiss!*"
 
 ![image]({{ '/assets/images/escaping-wilderun/s1e0-mars.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
-<DESCRIPTION>
+Mars is an unusually clever quasit with a flair for magic and mischief. Standing just under two feet tall, his dark green, iridescent skin shifts subtly in the light, and his large, expressive yellow eyes constantly gleam with amusement. His bat-like wings, though tattered, shimmer faintly with magic, and his curved horns and ever-present smirk give him the look of a tiny, mischievous magician.
+
+More playful than cruel, Mars lives for clever schemes. He delights in outsmarting others, but anyone who appreciates his talents may find a fiercely loyal—if exasperating—companion. Though he’s quick to vanish when danger looms, he always circles back to ensure his allies survive. Deep down, Mars sees himself as a grand mastermind, but in reality, he’s a scrappy underdog, always looking for the next trick to prove himself. Wherever he goes, chaos, laughter, and a little bit of magic are sure to follow.
 
 ### Goals
-<GOALS>
-<!-->
+* It's a secret!
 
 ## Wraithfoot (Bugbear Theif)
 > "Life is a game of survival, and I will do what it takes to survive in this world."
@@ -87,17 +88,18 @@ Wraithfoot excels at mimicry, reading social cues and imitating others with ease
 * Grow my skills until life and death are at my disposal.
 * Get to the point where I can choose when I’m around strangers, and can be alone when I want to.
 
-<!--
 ## Zoro (Human Wizard)
-> "<QUOTE>"
+> "Now, I’m not one to brag–though, let's be honest, my exploits speak for themselves"
 
 ![image]({{ '/assets/images/escaping-wilderun/s1e0-zoro.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
-<DESCRIPTION>
+Zoro is a man in his early thirties and undeniably handsome. Towering well over six feet tall, he possesses a lean, athletic build with broad shoulders hinting at underlying strength. Zoro moves with a natural, almost feline grace that belies his size. His face is strikingly handsome, defined by sharp cheekbones, a strong jawline, and a perfectly sculpted nose.
+
+His piercing eyes, a deep green with warm brown, are framed by thick, dark lashes and often hold a hint of both intensity and playfulness. His shoulder-length, dark brown hair, thick and slightly wavy, is often styled loosely, falling around his shoulders in a way that accentuates his features. He often carries a slight smirk or a knowing glint in his eyes, suggesting a confident and perhaps mischievous personality.
 
 ### Goals
-<GOALS>
-
--->
+* Further establish  fame and reputation as a legendary battle mage.
+* Earn the admiration and respect of compatriorts as a source of inspiration and example of determination and skill.
+* Have a good story to tell for his next book. 
 
 ## [Escaping Wilderun]({{'/escaping-wilderun' | relative_url }})
 <a href="{{'/escaping-wilderun/' | relative_url }}" title="Escaping Wilderun">![Escaping Wilderun]({{ '/assets/images/escaping-wilderun/header.webp' | relative_url }})</a>
