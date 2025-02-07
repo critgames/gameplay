@@ -62,11 +62,11 @@ Kingsley the Rex is a towering red Dragonborn with deep crimson scales that shim
 Kingsley is fiercely proud and unyielding, embodying the relentless power of fire itself. He approaches challenges head-on, never backing down from a fight, and despises cowardice in any form. His warrior’s spirit is fueled by an unyielding sense of honor, though his temper can be as volatile as the flames he breathes. Loyalty is his foundation—once he considers someone an ally, he will stand by them to the death.
 
 ### Goals
-* **Blood for Blood** - Avenge the death of my brother, Hakov, the high son of Vigga
-* **Prove My Worth with an Epic Deed** - Slay Eldrgander (Fire Serpent), the anceint red dragon
-* **Take my rightful place on the Throne** - Return to my lands with honor and be crowned king
+* **Blood for Blood** - Avenge the death of my brother, Hakov, the high son of Vigga who is king of the Drakfjell tribe.
+* **Prove My Worth with an Epic Deed** - Slay Eldrgander (Fire Serpent), the anceint red dragon who has terrorized my kind.
+* **Take my rightful place on the Throne** - Return to my lands with honor and be crowned king.
 
-## Mars (Sorcerer Quasit)
+## Mars (Quasit Sorcerer)
 > "*Hiss!*"
 
 ![image]({{ '/assets/images/escaping-wilderun/s1e0-mars.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
