@@ -26,9 +26,9 @@ Aodhan (a-on) stands an imposing 10 feet tall, his ashen skin reflecting his fie
 Despite his size, Aodhan moves with quiet grace, careful not to disturb his surroundings. His soot-stained hands leave traces of ash, a reminder of his bond with fire and renewal. Barefoot and modestly dressed, he carries only a burlap bag. He pauses often, observing nature with quiet reverence. Gentle and caring, he becomes a fierce force against corruption, ready to restore balance.
 
 ### Goals
-* Find and Investigate other blight threats in the world.
-* Learn new magical spells to control how fires spreads and stop fires.
-* Find the source source of the dark magic that is corrupting his home and desrtoy it.
+* **Heal the Blight** - Find and Investigate other blight threats in the world.
+* **Firemancer** - Learn new magical spells to control how fires spreads and stop fires.
+* **Root Out Dark Magic Once and For All** - Find the source source of the dark magic that is corrupting his home and destroy it.
 
 <!--
 ## Clarence (Tortle Cleric)
@@ -39,16 +39,19 @@ Despite his size, Aodhan moves with quiet grace, careful not to disturb his surr
 
 ### Goals
 <GOALS>
-
+-->
 ## Eryndor (Human Warlock)
-> "<QUOTE>"
+> "Honor bound me once. Now, only thorns remain."
 
 ![image]({{ '/assets/images/escaping-wilderun/s1e0-eryndor.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
-<DESCRIPTION>
+Once a noble knight of unyielding honor, Sir Eryndor Gravesoul now walks the line between man and monster, wielding a cursed pike that whispers temptations of power and vengeance. Betrayed by the one he loved most, his soul is bound to the will of an enigmatic Archfey. Adorned in tarnished armor entwined with creeping thorns, he roams the land as a fallen champion—feared, shunned, and relentlessly haunted by the echoes of his past.
+
+Eryndor carries himself with the rigid discipline of a knight, yet an air of sorrow clings to him like a shadow. His once-proud posture now bears the weight of cynicism and barely restrained fury. He speaks with measured words, his voice edged with bitterness and regret. Despite his brooding nature, remnants of his former honor flicker through in moments of unexpected kindness—though they grow rarer as the pike’s whispers tighten their grip on his soul.
 
 ### Goals
-<GOALS>
--->
+* **Shatter the Chains of the Fey** - Break the curse of Thornbreaker and sever his soul’s bond to The Whispering Thorn, freeing himself from eternal servitude.
+* **Hold onto Humanity** – preserve both sanity and the remnants of his moral code evan as the whispers of the cursed pike grow stronger.
+* **Reclaim What Was Lost** – Despite the betrayal that shattered his life, Eryndor longs to mend the fractures of his past—whether by confronting Elira, protecting his child, or finding a new sense of belonging.
 
 ## Kingsley (Dragonborn Fighter)
 > "Bringing honor to my bloodline."
@@ -59,10 +62,9 @@ Kingsley the Rex is a towering red Dragonborn with deep crimson scales that shim
 Kingsley is fiercely proud and unyielding, embodying the relentless power of fire itself. He approaches challenges head-on, never backing down from a fight, and despises cowardice in any form. His warrior’s spirit is fueled by an unyielding sense of honor, though his temper can be as volatile as the flames he breathes. Loyalty is his foundation—once he considers someone an ally, he will stand by them to the death.
 
 ### Goals
-* Avenge the death of my brother, Hakov, the high son of Vigga
-* Slay Eldrgander (Fire Serpent), the anceint red dragon
-* Return to my lands with honor and be crowned king
-
+* **Blood for Blood** - Avenge the death of my brother, Hakov, the high son of Vigga
+* **Prove My Worth with an Epic Deed** - Slay Eldrgander (Fire Serpent), the anceint red dragon
+* **Take my rightful place on the Throne** - Return to my lands with honor and be crowned king
 
 ## Mars (Sorcerer Quasit)
 > "*Hiss!*"
@@ -75,7 +77,7 @@ More playful than cruel, Mars lives for clever schemes. He delights in outsmarti
 ### Goals
 * It's a secret!
 
-## Wraithfoot (Bugbear Theif)
+## Wraithfoot (Bugbear Thief)
 > "Life is a game of survival, and I will do what it takes to survive in this world."
 
 ![image]({{ '/assets/images/escaping-wilderun/s1e0-wraithfoot.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
@@ -84,9 +86,9 @@ Wraithfoot stands at 6'2", lean and wiry, his dark, shaggy fur mottled with gray
 Wraithfoot excels at mimicry, reading social cues and imitating others with ease. Yet beneath this facade lies deep isolation—he struggles with genuine connections, viewing relationships as transactions. Though charming when needed, he often misjudges trust, leading to missteps. Loyal to the guild that took him in, he seeks purpose but remains emotionally distant, treating social interactions as puzzles to solve.
 
 ### Goals
-* Progress and be an expert in the guild.
-* Grow my skills until life and death are at my disposal.
-* Get to the point where I can choose when I’m around strangers, and can be alone when I want to.
+* **Master Thief** - Progress and be an expert in the guild.
+* **Keeper of Souls** - Grow my skills until life and death are at my disposal.
+* **Master of Self** - Get to the point where I can choose when I’m around strangers, and can be alone when I want to.
 
 ## Zoro (Human Wizard)
 > "Now, I’m not one to brag–though, let's be honest, my exploits speak for themselves"
@@ -97,9 +99,9 @@ Zoro is a man in his early thirties and undeniably handsome. Towering well over 
 His piercing eyes, a deep green with warm brown, are framed by thick, dark lashes and often hold a hint of both intensity and playfulness. His shoulder-length, dark brown hair, thick and slightly wavy, is often styled loosely, falling around his shoulders in a way that accentuates his features. He often carries a slight smirk or a knowing glint in his eyes, suggesting a confident and perhaps mischievous personality.
 
 ### Goals
-* Further establish  fame and reputation as a legendary battle mage.
-* Earn the admiration and respect of compatriorts as a source of inspiration and example of determination and skill.
-* Have a good story to tell for his next book. 
+* **Fame & Fortune** - Further establish fame and reputation as a legendary battle mage.
+* **A Model Rolemodel** - Earn the admiration and respect of compatriorts as a source of inspiration and example of determination and skill.
+* **Regaling Tales** - Have a good story to tell for his next book. 
 
 ## [Escaping Wilderun]({{'/escaping-wilderun' | relative_url }})
 <a href="{{'/escaping-wilderun/' | relative_url }}" title="Escaping Wilderun">![Escaping Wilderun]({{ '/assets/images/escaping-wilderun/header.webp' | relative_url }})</a>
