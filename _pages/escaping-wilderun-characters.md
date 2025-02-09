@@ -70,7 +70,7 @@ Kingsley is fiercely proud and unyielding, embodying the relentless power of fir
 * **Prove My Worth with an Epic Deed** - Slay Eldrgander (Fire Serpent), the anceint red dragon who has terrorized my kind.
 * **Take my rightful place on the Throne** - Return to my lands with honor and be crowned king.
 
-## Mars (Quasit Sorcerer)
+## Mars (Quasit Warlock)
 > "*Hiss!*"
 
 ![image]({{ '/assets/images/escaping-wilderun/s1e0-mars.webp' | relative_url }}){: style="float: left; padding: 10px;" width="33%"}
