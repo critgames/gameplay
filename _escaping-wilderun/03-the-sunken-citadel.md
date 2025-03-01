@@ -15,7 +15,7 @@ header:
 ---
 
 # The Sunken Citadel
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/zY6lTzEXS98?si=7ImC0ksOAD-SxdCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/zY6lTzEXS98?si=JGTSye1QKLYpFKyU&amp;start=370" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 *The menagerie has found and entered the Sunken Citadel. What secrets have they yet to uncover?*
 
 ## Episode 3

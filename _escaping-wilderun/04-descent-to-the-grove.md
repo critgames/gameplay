@@ -2,7 +2,7 @@
 layout: single
 title:  "Descent to the Grove"
 excerpt: "What menaces await underneath the Sunken Citadel?"
-date:   2025-01-24 18:30:38 -0700
+date:   2025-02-21 18:30:38 -0700
 collections: escaping-wilderun
 author: critgames
 toc: true
@@ -19,7 +19,7 @@ header:
 *What menaces await underneath the Sunken Citadel?*
 
 ## Episode 4
-**The following are from the diary of Zoro, Wizard extraordinaire (and edits from Wraithfoot).**
+> **The following are from the diary of Zoro, Wizard extraordinaire (and edits from Wraithfoot).**
 
 Ah, another day, another adventure for yours truly. Zoro, the famous mage, is back at it again, showing the world how it's done. As always, I find myself surrounded by a motley crew, each one desperately trying to bask in my radiant glory. But let's get to it, shall we?
 
@@ -52,4 +52,4 @@ Apparently, we had to go back through where the other creatures were. And of cou
 I cannot be silenced! And not the Drone Flame!
 And so we continue, deeper into this Twilight Grove, with yours truly leading the charge, naturally. Who knows what wonders and terrors await us? But one thing is for sure: with Zoro at the helm, it's bound to be a story worth telling.
 
-**(WF: More like a story worth living! hearts and stars)**
+*(WF: More like a story worth living! hearts and stars)*
