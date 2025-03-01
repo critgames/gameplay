@@ -16,9 +16,24 @@ header:
 
 # The Sunken Citadel
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/i1RlZE1giXg?si=GZCC9aeQ_QHiyr-G&amp;start=429" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-*What menaces await underneath the Sunken Citadel?*
+> *What menaces await underneath the Sunken Citadel?*
+
+* **The Quest Begins**: The party accepts a quest related to a stolen crab.
+* **Meeting with Locals**: Encounters with the Keeper of the Crab, language barriers arise.
+* **Throne Room Intrigue**: The party finds a creature sitting on a throne and learns about the "Abominations" who stole the crab.
+* **Corridor Navigation**: The group passes doors, patrols, and discusses the Twilight Grove.
+* **Magical Fruit**: The party learns about the properties of fruit from the Twilight Grove, which can either give life or steal it.
+* **Key Bypassed**: The party bypasses a key to get to a dangerous place, opting for a back way.
+* **Camp Encounter**: The adventurers arrive at some kind of camp.
+* **Battle and Teamwork**: A battle ensues as party members use skill and spells to defend themselves.
+* **Blood and Tears**: Kingsley confides in Aodhan discussing honor, bloodlines, and personal struggles. Kingsley carries the ashes of his brother and cries in Aodhan's arms.
+* **Dragon Statue**: The party finds a dragon statue and fills flasks with a reddish liquid from its mouth.
+* **Deeper into the Grove**: The group continues deeper into the Twilight Grove
+
 
 ## Episode 4
+*The party's descent into the Twilight Grove begins with their acceptance of a quest to retrieve a stolen crab. After meeting with the locals, the group delves into a dungeon, bypassing a key and opting for a more direct route. They navigate corridors, discuss the properties of the grove's magical fruit, and ultimately find themselves in a camp. Battle ensues, with some members of the party showcasing their prowess. Kingsley confides in Aodhan, gleaning insights into their personal goals and dynamics. The group continues, filling flasks with liquid from a dragon statue. The adventure concludes with the party venturing deeper into the Twilight Grove, ready for whatever awaits them.*
+
 > **The following are from the diary of Zoro, Wizard extraordinaire (and edits from Wraithfoot).**
 
 Ah, another day, another adventure for yours truly. Zoro, the famous mage, is back at it again, showing the world how it's done. As always, I find myself surrounded by a motley crew, each one desperately trying to bask in my radiant glory. But let's get to it, shall we?
