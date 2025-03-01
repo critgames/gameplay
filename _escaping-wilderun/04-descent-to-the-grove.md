@@ -45,22 +45,22 @@ Then, we navigated through some corridors, passing doors and the like. Standard 
 
 We make our way to a round tower, naturally the dragon detector lights up, because of course it does. This is the back way to the Abominations. I always say, why go around when you can go through? Or, in this case, behind. We had a chat with some of the locals about fruit from the Twilight Grove. Apparently the summer fruit gives life, and the winter fruit steals it. Good to know.
 
-*(Wraithfoot is amazing! Wraithfoot is awesome! -WF)*
+*(Wraithfoot Edit) Wraithfoot is amazing! Wraithfoot is awesome!*
 
 #### Camp
 We ended up in some kind of camp. I smelled amazing, like lettuce, apparently. Then, we were off to face some baddies. Green ones and red ones, oh my! Kingsley was in the front, of course, always eager to spill some blood. I cast sleep on one of the creatures. I stepped forward, naturally. "I shall save you," I said to the group. Then I pulled out a rope and started tying up the sleeping creature. It's important to keep things tidy, after all.
 And what is this? Someone said flowers? Of course! It was I. And molasses! I do not like molasses. It made it difficult terrain.
 
-*(WF Edit: Haha Zoro got messed up by his own spell)*
+*(Wraithfoot Edit) I, Zero am so full of myself, I got messed up by own spell!*
 
 #### A "Rest"
 During a lull in the action, while attempting to better understand Zoro's magic, Zoro, with his typically excellent hearing, overheard a conversation between Kingsley and Aodhan. Kingsley, standing tall and proud, spoke of honor and bloodlines, while Aodhan, ever the acolyte, muttered something about defending himself. It was all dreadfully boring, really, but I did learn that Kingsley was trying to claim some throne or another, while Aodhan was an acolyte who can defend himself.
 More interestingly, I picked up that Kingsley carries around the ashes of his brother. Also, he has some chalice from his father. The most curious thing, however, is that I saw Kingsley tense up when Aodhan tried to reach over, then Kingsley sank into Aodhan in tears. Frankly, it was all rather tedious, and I couldn't help but think that they could use a bit of my charisma to liven things up.
 
-I did not get any rest. And people wanted to go on without me! Preposterous! Fortunately, cooler heads prevailed. I may not know much about the Fay, I did study the mundane, thank you very much.
-Oh, and did I mention I'm known throughout the land for my conquests? Because I am. It's a burden, really, all this fame and adoration. But someone has to bear it, and who better than yours truly? But not as good a burden as [having] two second minds!
+I did not get any rest. And people wanted to go on without me! Preposterous! Fortunately, cooler heads prevailed. I may not know much about the Fey, I did study the mundane, thank you very much.
+Oh, and did I mention I'm known throughout the land for my conquests? It's a burden, really, all this fame and adoration. But someone has to bear it, and who better than yours truly?
 
-*(WF: This checks out. hearts and smiley faces)*
+*(Wraithfoot Edit) I wonder if Wraithfoot has noticed how much of a burden I'm carrying.*
 
 #### More Tunnels
 We found a reddish liquid coming out of the mouth of a dragon statue. Looked like molten something-or-other. Perhaps it grants draconic powers? Worth investigating, I'd say. I filled one of my flasks, naturally. Always be prepared, that's my motto.
@@ -69,4 +69,4 @@ Apparently, we had to go back through where the other creatures were. And of cou
 I cannot be silenced! And not the Drone Flame!
 And so we continue, deeper into this Twilight Grove, with yours truly leading the charge, naturally. Who knows what wonders and terrors await us? But one thing is for sure: with Zoro at the helm, it's bound to be a story worth telling.
 
-*(WF: More like a story worth living! hearts and stars)*
+*(Wraithfoot Edit) "I really want to lead the charge behind 😍 Wraithfoot 🥰, he's so brave and cute and fuzzy, I could follow him anywhere. I wonder if he notices me?"*
