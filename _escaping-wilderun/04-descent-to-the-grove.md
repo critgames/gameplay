@@ -69,4 +69,4 @@ Apparently, we had to go back through where the other creatures were. And of cou
 I cannot be silenced! And not the Drone Flame!
 And so we continue, deeper into this Twilight Grove, with yours truly leading the charge, naturally. Who knows what wonders and terrors await us? But one thing is for sure: with Zoro at the helm, it's bound to be a story worth telling.
 
-*(Wraithfoot Edit) "I really want to lead the charge behind 😍 Wraithfoot 🥰, he's so brave and cute and fuzzy, I could follow him anywhere. I wonder if he notices me?"*
+*(Wraithfoot Edit) I really want to lead the charge behind 😍 Wraithfoot 🥰, he's so brave and cute and fuzzy, I could follow him anywhere. I wonder if he notices me?*
