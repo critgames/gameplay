@@ -26,8 +26,7 @@ header:
 * **Reward and Realization**: They receive the desired key and choose an item (a wooden feather) from an altar, only to discover the chief possessed the actual key.
 * **Unnecessary Effort**: The party understands they completed a quest for a key they didn't need, as Zoro had a conjured key and the chief had the real one.
 * **Considering the Tree and Allies**: The group contemplates revisiting the tree, and some locals express interest in joining their cause.
-* **Army Discussion**: The party considers the possibility of bringing reinforcements with them as they venture further.
-* **Descent Begins**: They make the decision to proceed downwards.
+* **Discussion and Descent**: The party considers the possibility of bringing reinforcements with them as they venture further and  make the decision to proceed downwards.
 * **Guide's Absence**: Their initial guide is no longer accompanying them, having left with the crab.
 * **Forgotten Ally**: The dwarf they had previously freed is still with them, although they had temporarily forgotten about his presence.
 
@@ -36,6 +35,7 @@ header:
 
 ### Wraithfoot's Shadowy Chronicle: A Glimpse into the Grove
 > **The following is the adventurous tale as told by the master thief Wriathfoot:**
+
 Another day, another bunch of oddballs dragging me into some dusty corner of the world. This time, it started with some sob story about a crab. Honestly, who cares about a crab? But a job's a job, and who knows what shiny trinkets might turn up along the way. So, here's how this little escapade unfolded, from my expertly shadowed perspective.
 
 #### The Crab Caper: A Thief's Eye View
