@@ -28,3 +28,6 @@ header:
 ---
 ### [Downfall At Doomspire]({{'/one-shots/downfall-at-doomspire/'  | relative_url }})
 <a href="./one-shots/downfall-at-doomspire/" title="Downfall At Doomspire">![Downfall At Doomspire]({{'/assets/images/downfall-at-doomspire/downfall-at-doomspire.webp' | relative_url }})</a>
+
+### [Neo-Luddites: A Cyberpunk Apocalypse]({{'/one-shots/neo-luddites-a-cyberpunk-apocalypse/'  | relative_url }})
+<a href="./one-shots/neo-luddites-a-cyberpunk-apocalypse/" title="Neo-Luddites: A Cyberpunk Apocalypse">![Neo-Luddites: A Cyberpunk Apocalypse]({{'/assets/images/neo-luddites-a-cyberpunk-apocalypse/neo-luddites-a-cyberpunk-apocalypse.webp' | relative_url }})</a>
