@@ -22,7 +22,7 @@ header:
 
 # Wilderun
 
-> A DnD 5E adventure in a high fantasy world! Campaigns feature longer-form content over multiple sessions with character progresion and broader, unfolding story arcs.
+> A DnD 5E adventure in a high fantasy world! Campaigns feature longer-form content over multiple sessions with character progression and broader, unfolding story arcs.
 
 ### [Season 1: Escaping Wilderun]({{'/escaping-wilderun' | relative_url }})
 <a href="./escaping-wilderun/" title="Escaping Wilderun">![Escaping Wilderun]({{ '/assets/images/escaping-wilderun/header.webp' | relative_url }})</a>
