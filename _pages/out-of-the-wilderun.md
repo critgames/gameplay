@@ -1,6 +1,6 @@
 ---
 title: Out of the Wilderun
-excerpt: "Season 2: The party travels beyond the Wilderun."
+excerpt: "The party travels beyond the Wilderun."
 layout: collection
 permalink: /out-of-the-wilderun/
 collection: out-of-the-wilderun
@@ -20,3 +20,5 @@ header:
 
 # Episodes
 ---
+
+> In Season Two our heroes travel beyond the Wilderun. Miss the first season? Watch [Season One: Escaping Wilderun]({{ '/escaping-wilderun' | relative_url }}) for the mysterious origin story and to learn how the party escaped the Wilderun!
