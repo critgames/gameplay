@@ -81,6 +81,15 @@ defaults:
       author_profile: true
       share: true
       related: true
+  # _out-of-the-wilderun
+  - scope:
+      path: "_out-of-the-wilderun"
+      type: out-of-the-wilderun
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      related: true      
   # _one-shots
   - scope:
       path: "_one-shots"
@@ -95,6 +104,9 @@ defaults:
 # Collections
 collections:
   escaping-wilderun:
+    output: true
+    permalink: /:collection/:path/
+  out-of-the-wilderun:
     output: true
     permalink: /:collection/:path/
   one-shots:

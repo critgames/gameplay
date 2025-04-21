@@ -20,3 +20,5 @@ header:
 
 # Episodes
 ---
+
+> Our heroes find themselves mysteriously awakened in an unknown forest, kicking off an unforgettable season one! Journey with them through a vibrant fantasy world, where they'll brave treacherous dungeons and the enigmatic Twilight Grove with its peculiar magical fruits. Get ready for a wild ride filled with action, intrigue, and the development of a fantastic ensemble in Escaping Wilderun Season One!

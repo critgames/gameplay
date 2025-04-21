@@ -107,5 +107,10 @@ His piercing eyes, a deep green with warm brown, are framed by thick, dark lashe
 * **A Model Rolemodel** - Earn the admiration and respect of compatriorts as a source of inspiration and example of determination and skill.
 * **Regaling Tales** - Have a good story to tell for his next book. 
 
-## [Escaping Wilderun]({{'/escaping-wilderun' | relative_url }})
+# Wilderun
+
+## [Season 1: Escaping Wilderun]({{'/escaping-wilderun' | relative_url }})
 <a href="{{'/escaping-wilderun/' | relative_url }}" title="Escaping Wilderun">![Escaping Wilderun]({{ '/assets/images/escaping-wilderun/header.webp' | relative_url }})</a>
+
+## [Season 2: Out of the Wilderun]({{'/out-of-the-wilderun' | relative_url }})
+<a href="{{'/out-of-the-wilderun/' | relative_url }}" title="Out of the Wilderun">![Out of the Wilderun]({{ '/assets/images/out-of-the-wilderun/header.webp' | relative_url }})</a>
