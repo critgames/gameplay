@@ -18,7 +18,4 @@ header:
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/iULgMkbGKyo?si=DlidpTtB8bDkPvYS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 ## Episode 1
-<SUMMARY>
-
-## Adventure Log
-<ADVENTURE_LOG>
+> **Join us every two weeks on Fridays at 6:00 PST for Actual Play and visit us at [critgames.com](https://critgames.com) and Game On!**
