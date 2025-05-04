@@ -15,7 +15,7 @@ header:
 ---
 
 # Out of the Wilderun
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/6v0A5ORC2uc?si=RM3DRnoX33sTX8OM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/6v0A5ORC2uc?si=RM3DRnoX33sTX8OM&amp;start=451" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 *Start of [season two]({{'/out-of-the-wilderun' | relative_url }}) where the party travels beyond the wilderun!*
 
 ## Episode 1
