@@ -16,7 +16,7 @@ header:
 
 # Tares Among The Wheat
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/QwGNVmfJU4A?si=pIWQLxkQsqeLEmXX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-*In Goldenfields, but wishing you were in Waterdeep.*
+> *In Goldenfields, but wishing you were in Waterdeep.*
 
 ## Episode 4
 Tares Among the Wheat chronicles the party's arrival and the tumultuous events that unfold in the walled village of Golden Fields, culminating in a surprising diplomatic resolution to an invasion. After a three-day journey from Dark Spire, arriving via a cloud giant's tower, the adventurers settled into the local inn, but their peace was short-lived. The village was soon attacked by bugbears and goblins seeking food. The party engaged in fierce combat, demonstrating their unique abilities and combat prowess. Amidst the fighting, a strategic shift occurred as the party pursued diplomacy and negotiation with the invaders, uncovering their motivations for raiding the village. This led to a peaceful resolution, with the villagers offering provisions in exchange for future trade, and hinting at a larger disorder among the giants that initiated the raids.
@@ -51,6 +51,7 @@ Tares Among the Wheat chronicles the party's arrival and the tumultuous events t
 
 ## A Test of Steel and Honor
 > Battle of Golden Fields By Kingsley, the Rex, Dragonborn Fighter of the Drakfjell Tribe
+
 By the Great Fire, what a journey! Three days we rode upon that cloud giant’s tower, Zephus himself, a truly imposing figure. Not often does one ride the clouds, and I, Kingsley, found it a fitting steed for a Dragonborn of my stature. Though I must confess, the strange little Mars, that quasit sorcerer, decided to transform into a pseudo-dragon during this aerial voyage. A sudden apparition, indeed! My instincts, honed in countless battles, screamed danger! So, naturally, I struck. One cannot be too careful with sudden, scaly appearances. Some of the others thought it amusing, but a true fighter acts, not ponders, when faced with the unknown.
 
 Upon descending into this Golden Fields—a rather plain name for a village, if you ask me—we sought respite at the North Furrows End inn. The innkeeper seemed... distressed, after Zoro's peculiar way of delivering news of his dead parents. Wraithfoot, that cunning bugbear, managed to soften the blow and secure us rooms for free. Not that I needed one; the ground, a true warrior's bed, suits me fine, and I took my watch outside, my scales glistening under the twin moons.
