@@ -89,7 +89,16 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      related: true      
+      related: true
+  # _mytic-cycle
+  - scope:
+      path: "_mythic-cycle"
+      type: mythic-cycle
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      related: true
   # _one-shots
   - scope:
       path: "_one-shots"
@@ -107,6 +116,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   out-of-the-wilderun:
+    output: true
+    permalink: /:collection/:path/
+  mythic-cycle:
     output: true
     permalink: /:collection/:path/
   one-shots:
