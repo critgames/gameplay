@@ -27,7 +27,7 @@ header:
 > But even in the face of such overwhelming fate, there is hope. You are about to embark on a heroic journey. Heroes, by their very definition, are those "who defy the predetermined course of fate" choosing to "chart their own courses, striding boldly into the unknown" and facing the challenges of their age!
 >
 > Let us embark!
-
+>
 
 ## Episode 1
 The "Fallen Warlord" is the inaugural episode of a new campaign set within a world shaped by an endlessly turning mythic cycle, where gods actively intervene in the lives of mortals. In this first episode, players assume the roles of low level characters within the Ardennese army, a dominant military power. The world is fraught with magic, monsters, and a constant struggle between order and chaos. One of these seemingly expendable characters will rise through the ranks to become a significant leader, and eventually, a central antagonist within the Ardenne military. The episode introduces rising conflict, gigantic behemoths, wartorn lands, and the beginnings and  rise of a new Ardene Warlord.
@@ -50,10 +50,23 @@ The jungle swallowed them whole, a twisted lattice of green blotting out the sun
 
 Hrothgar was a man to behold, his broad shoulders cloaked in wolfskin and a jagged scar, proudly borne, ran from brow to cheek. His hands, gnarled and powerful, gripped a great axe, its iron head dark with the patina of countless battles. His voice, deep and steady like the sea before a storm, had thundered their impossible orders: "Recover the young of a Behemoth. Its egg.". A fool's errand, perhaps, yet they pressed on, each step a testament to Ardenne obedience, or perhaps, desperation.
 
-### Hrothgar's Fall
-The combat eith the Behemoth erupted without warning, a maelstrom of claws, teeth, and raw, primordial fury. A hulking Behemoth, its massive form a shuddering force of chaos, lunged from the dense foliage, tearing through their unprepared ranks. The air filled with the screams of the dying, the brutal new mechanics of this battlefield asserting themselves with swift, unforgiving finality. After loosing several men, thr war band successfully steals two behemoth eggs and return to waiting Ardenne in the jungle. The Warlord Hrothgar, the seemingly indomitable chieftain, is killed when the low-level characters surprise attack him and snap his spine and then use a hallucinogenic potion is to cover up the act and confuse the remaining Ardenne.
+Nestled in a colossal bowl woven from splintered logs, upward trees, and overgrowth, lay the prize: massive, leathery eggs, each one easily the size of a barrel. As the group approached, Bjorn, one of the warriors, muttered in the old tongue, "There are eggs ahead and we need to figure out how to get them and eliminate the rest of the group".
 
-Panic threatened to unravel the remaining survivors. One, a stoic warrior named Ragna, found herself clutching a Behemoth egg, its smooth surface a stark contrast to the bloody carnage around her. Another, Ironhelm, his usual thunderous voice now a desperate roar, rallied the shattered remnants of their squad. Some, like Barty, succumbed to hallucinogenic effects, their minds twisted by the jungle's strange flora, their actions erratic and unpredictable. Finally the Ardenne warriors carried Hrothgar’s limp body on a shield, a solemn promise to bring their fallen leader home.
+> "Brothers, we must kill the Behemoth!" - Ironhelm's rallying cry.
+
+The combat with the Behemoth erupted without warning, a maelstrom of claws, teeth, and raw, primordial fury. A hulking Behemoth, its massive form a shuddering force of chaos, lunged from the dense foliage, tearing through their unprepared ranks.  In a single, devastating bite, the beast claimed Sid Knotskull, whose gaunt, withered arm and skeletal frame were no match, silencing the unfortunate priest in one bite.
+Chaos erupted, but a brave few held their ground. Burnhood, screaming, "Not scared! Not scared!", raced towards the monster's foot, leaping to hug its ankle and valiantly chopping away with a handaxe, managing to draw first blood from the titanic creature.
+
+The Behemoth, an apex predator whose guttural bellows shook the very trees, was a formidable foe, completely outmatching the adventurers. As the warriors moved in, one character, Thorgar Iron Fury Scald, found himself directly in the path of the beast. The Behemoth unleashed a devastating tail sweep, smashing into the nest. Thorgar, a man known for his braided hair matted with blood and frost, was sent "careening through the jungle". With his last breath, he whispered, "You got this, bro," before succumbing to a brutal 33 points of damage, ending his journey.
+
+### Hrothgar's Death
+Meanwhile, from the undergrowth, Iron Fang, having stewed a "vicious, lumpy, vile, and ballistically accurate" lugie for days, spit with expert precision straight into the Behemoth's face. Yet, even as the monstrous form recoiled, another warrior, Bjorn, emerged from the brush, fixing the beast with a glare and a thunderous "Shut it!" primal shout. To the astonishment of all, the behemoth, momentarily chastised, recoiled and lost its next turn, its immense form taking a step back as if obeying a stern command. The battle, already a brutal dance of survival, shifted with every desperate act, each moment a testament to the fragile line between terror and audacious defiance.
+
+> "Shut it!" -Bjorn to the Behemoth.
+
+Panic threatened to unravel the remaining survivors. One, a stoic warrior named Ragna, found herself clutching a Behemoth egg, its smooth surface a stark contrast to the bloody carnage around her. Another, Ironhelm, his usual thunderous voice now a desperate roar, rallied the shattered remnants of their squad.
+
+After loosing several men, the war band successfully stole two behemoth eggs and returned to awaiting Ardenne in the jungle. The Warlord Hrothgar, the seemingly indomitable chieftain, is killed when the low-level characters surprise attack him and snap his spine and then use a hallucinogenic potion is to cover up the act and confuse the remaining Ardenne. Finally the Ardenne warriors carried Hrothgar’s limp body on a shield, a solemn promise to bring their fallen leader home.
 
 ## Act II: The Fallen Warlord
 ### Return to the Camp
