@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Tomb of the Ancients"
-excerpt: "."
+excerpt: "New life from near death."
 date:   2025-09-01 18:00:38 -0700
 collections: mytic-cycle
 author: critgames
@@ -19,4 +19,4 @@ header:
 *View all episodes in [season three]({{'/mythic-cycle' | relative_url }}).*
 
 ## Episode 3
-> After the adventurers are stranded in the deep desert after a sandstorm swallows their caravan. Hope seems lost until they spot a half-buried pyramid jutting from the dunes. The ruins are by rival cults clinging to the memory of forgotten gods. At the heart lies a monstrous guardian—a god-serpent born of ancient blasphemy. To survive, the players must navigate faction politics, uncover ancient secrets, and prepare for the awakening of the Blood of Lothan.
+> New life from near death. After the adventurers are stranded in the deep desert after a sandstorm swallows their caravan. Hope seems lost until they spot an ancient pyramid jutting from the dunes. The ruins are inhabitted by rival cults clinging to the memory of forgotten gods. At the heart lies a monstrous guardian—a god-serpent born of ancient blasphemy. To survive, the players must navigate faction politics, uncover ancient secrets, and confront the Blood of Lothan.
