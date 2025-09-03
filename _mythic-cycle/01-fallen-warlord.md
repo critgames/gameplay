@@ -70,16 +70,16 @@ The Ardenne encampment, when they finally reached it, was a bustling, discipline
 
 As Ragna and Ironhelm report Hrothgar’s demise while a somber war drum echoed across the village – a summons, an ushering of a fallen warrior. Branches and flowers were thrown towards them, a final tribute to the "wolf cloaked king" as he rode his "final voyage". Hrothgar was laid to rest, his broken spine a silent witness to the brutal truth of their world.
 
-Ironhelm's eulogy for Warlord Hrothgar:
+Ironhelm's eulogy for the fallen Warlord Hrothgar:
 > "Raise your horns high, for Hrothgar has gone to the halls of the gods."
 > 
 > "He was a storm upon the sea, an axe in the dark, a wolf among men. His cloak was the hide of the beast he slew, his scars the runes of battles won. He stood as shield and spear for his people, never bending, never breaking, until his last breath was spent in their defense."
 > 
 > "The earth bears his footprints, the sea remembers his oars, and the sky has carried his war-cry. Enemies feared his name; friends feasted in his shadow. Hrothgar did not live quietly, and he shall not be forgotten quietly."
 > 
-> "Now he sails the whale-road to the underealm, where the Allfather himself will pour his mead. There he will sit among the honored dead, a place at the high table reserved for kings and killers of kings."
+> "Now he sails the whale-road to the underealm, where he will sit among the honored dead, a place at the high table reserved for kings."
 > 
-> "So mourn not as if he is gone — sing as if he still stands beside us. For as long as we raise steel and song, Hrothgar’s name will thunder across the ages."
+> "So mourn not as if he is gone, but sing as if he still stands beside us. For as long as we raise steel and song, Hrothgar’s name will thunder across the ages."
 
 
 ### The Butcher King's Coronation
@@ -92,7 +92,7 @@ Months pass, stretching into a new epoch of Ardennese dominance. The Behemoth eg
 As Ironhelm ascended to leadership among the Ardenese, following the unexpected demise of Warlord Hrothgar, he was immediately confronted with a series of profound moral questions, each bearing the weight of his burgeoning power and the future of his people.
 His first true test arrived swiftly, amidst the bustling, disciplined war camp. With the clamor of the forge and the hum of conversation filling the air, a vital decision awaited him regarding the organization of the newly amassed army. His advisors presented the dilemma: should they have organized the troops by their native villages, ensuring units fought with the fierce loyalty of kin, yet risking the utter devastation of entire communities if those units fall in battle? Or should he, as the burgeoning leader, have mixed the troops, fostering a broader brotherhood within the Ardenne, but perhaps diluting the fierce, personal bonds that fueled their valor? Ironhelm's choice would define the very fabric of his army and the societal cost of its inevitable conflicts, a delicate balance between cohesion and catastrophic loss. He chose to mix the villages, declaring, "We are one, we are the Arden, we fight together, we bleed together, we mix the villages blood". This decision aimed to forge a collective identity, strengthening the whole, but potentially sacrificing the tight-knit support of local communities if they fell.
 
-> ""We are one, we are the Arden, we fight together, we bleed together, we mix the villages blood." -Ironhelm
+> "We are one, we are the Arden, we fight together, we bleed together, we mix the villages blood." -Ironhelm
 
 Soon after, a more immediate and personal challenge arose in the form of Stiger, a local leader who had openly defied Ironhelm's orders and encouraged others to abandon the ranks. Stiger was brought before him, clad in irons, a symbol of direct treason. The choice was stark: execution, deemed worthy of death for such an act and vital to prevent the army's unraveling, or an act of leniency that might undermine Ironhelm's freshly claimed authority. The weight of setting a precedent, of demonstrating the nature of his rule – merciless tyrant or unifying force – fell heavily upon him. Stiger's words echoed, "If you kill me, I will die a martyr," challenging Ironhelm to consider the perception of his actions. In a surprising turn, Ironhelm offered Stiger a sword, choosing to duel him, and through this display of honor, brought Stiger to his side.
 
