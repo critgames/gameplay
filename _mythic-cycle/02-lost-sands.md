@@ -17,7 +17,7 @@ header:
 # Lost Sands
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/36Idkd85DrA?si=PK8gW24I2PxwaOTh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*Watch ending after stream went down: [Lost Sands Part 2]("https://www.youtube.com/embed/fCWug8dkkKI?si=bmhZAMDr3ubIudHw")*
+*Watch [Part 2]("https://www.youtube.com/embed/fCWug8dkkKI?si=bmhZAMDr3ubIudHw") (after stream went down)*
 
 *View all episodes in [season three]({{'/mythic-cycle' | relative_url }}).*
 
