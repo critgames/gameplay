@@ -47,6 +47,7 @@ header:
 
 ### Beneath the Brazen Sun
 > "I'm Woot uh I'm in infantry support target elimination system and I'm looking around and I'm not too impressed by what I see to be honest." -W00t (Rogue)
+
 The expedition for the mercantile Maercant's South Trading Company (STC) began not with glory, but with the brutal reality of the Southern Desert. Under a blistering sun that turned the golden sands into an endless, shimmering expanse, a caravan of roughly a dozen souls trekked east, hired to carve out and protect new trade routes in the treacherous South Lands. The atmosphere was thick, oppressive, and every breath was a parched struggle against the dry heat.
 Among the weary contractors rode the main protagonists, struggling to find cohesion in the shared misery. Among them was Woot, an "infantry support target elimination system", who greeted the hostile environment with a mechanical disdain, stating flatly, "I'm looking around and I'm not too impressed by what I see to be honest". Traveling alongside the rest of the company, which included personnel like the resourceful merchant Zara al-Kindi and the cheerful halfling Bart Bumblefoot, the caravan sought a desperate passage.
 
