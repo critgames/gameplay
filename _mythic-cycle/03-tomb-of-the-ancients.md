@@ -2,7 +2,7 @@
 layout: single
 title:  "Tomb of the Ancients"
 excerpt: "New life from near death."
-date:   2025-09-01 18:00:38 -0700
+date:   2025-09-29 18:00:38 -0700
 collections: mytic-cycle
 author: critgames
 toc: true
@@ -15,7 +15,7 @@ header:
 ---
 
 # Tomb of the Ancients
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/fCWug8dkkKI?si=bmhZAMDr3ubIudHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/XK-qiEku4CE?si=e_FdmXri4vYnLi7Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 *View all episodes in [season three]({{'/mythic-cycle' | relative_url }}).*
 
 ## Episode 3
