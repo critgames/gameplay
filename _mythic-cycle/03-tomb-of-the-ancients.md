@@ -73,36 +73,42 @@ At the base of the sacred stairs, the adventurers found their path blocked by tw
 
 Mynx, delighted by the chance to share her knowledge, confirmed that inside was the "best tasting most life-giving water in the desert". Ecstatic that she got to talk to someone after such a long time, she had was eager to provide hints how to get inside. But first, the party hand to answer several riddles:
 
-<details>
-<summary>
+
 What can run, but never walk.<br/>
 Has a mouth, but never talks.<br/>
 Has a head, but never weeps.<br/>
 Has a bed, but never sleeps.<br/>
+<details>
+<summary>
+Reveal Answer:
 </summary>
-Answer: A river.
+A river
 </details>
 <br/>
 
-<details>
-<summary>
+
 I have no breath, yet I whisper to all.<br/>
 I have no wings, yet I travel the world.<br/>
 I carry no weight, yet I can topple kings.<br/>
 What am I?<br/>
+<details>
+<summary>
+Reveal Answer:
 </summary>
-Answer: A rumor.
+A rumor
 </details>
 <br/>
 
-<details>
-<summary>
+
 I come to all, yet none call me friend.<br/>
 I wait at every journey’s end.<br/>
 No crown nor coin can buy me away.<br/>
 What am I?<br/>
+<details>
+<summary>
+Reveal Answer:
 </summary>
-Answer: Death.
+Death
 </details>
 <br/>
 
@@ -146,7 +152,7 @@ Thirst overcoming caution, the party rushed the pool. Ralph immediately ruined t
 ### Long Rest and Level Up
 > "Boom boom for the bang bang." -Bang (Artificer)
 
-Mynx, speaking through Ara via contract magic, offered an unsettling invitation during the night watch: "oh absolutely you can use my bunk she smiles do you want to join me she'll be in it at the same time wishing for two is that what you wish". The adventurers, however, prioritized self-improvement, choosing to rest and advance to Level 2. W00t articulated the meta strategy:
+Elara was keen to know more about Cort and gave an invitation: "you can use my bunk." Elara went on to ask W00t more about Cort. W00t had Elara sign a contract to protect Cort. The adventurers chose to take a long rest and advance to Level 2. W00t articulated the meta strategy:
 
 > "You'll get to level two and you can pursue this afterwards and we can pursue it with level two intelligence!" -W00t (Rogue)
 
