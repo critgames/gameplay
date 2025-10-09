@@ -69,7 +69,7 @@ At the base of the sacred stairs, the adventurers found their path blocked by tw
 > "There's no way I'm going to let you rob and plunder this ancient tomb!" -Mynx The Sphinx (NPC)
 
 ### The Riddle Challenge
-> "Oh you've heard this one haven't you" -Mynx (NPC)
+> "Oh you've heard this one haven't you" -Mynx the Sphinx (NPC)
 
 Mynx, delighted by the chance to share her knowledge, confirmed that inside was the "best tasting most life-giving water in the desert". Ecstatic that she got to talk to someone after such a long time, she had was eager to provide hints how to get inside. But first, the party hand to answer several riddles:
 
@@ -114,7 +114,7 @@ Wark had riddle for Mynx the Sphinx which she was excited to think about:
 
 Knowing they could not deal with the Dragonborn inside, the party resorted to cunning. Court approached the rivals with a lie, whispering that their Sphinx "really has something she wants to tell you it's not a riddle it is about how to get in". The Dragonborn rogue starts heading down the stairs taking another with her.
 
-> "'Hey uh, Mynx really has something she wants to tell you it's not a riddle it is about how to get in.' She said she wouldn't tell us but she will tell you if you go down and ask." -Bang (Artificer)"
+> "Mynx really has something she wants to tell you it's not a riddle it is about how to get in. She said she wouldn't tell us but she will tell you if you go down and ask." -Bang (Artificer)"
 
 ### Secret Entrance
 With the rivals momentarily out of sight, the adventurers slipped through the secret entrance. The moment the last hero crossed the threshold, the world lurched. The stone slab "ratchets back into place with a definitive and metallic sound that echoes in the sudden silence". Even amidst the tension, the robot W00t, sealed inside, could not help but shout his confusion: "why do we not want the dragon born to follow why do we not want the fortune and glory".
@@ -128,9 +128,11 @@ Their path was immediately blocked by the chamber of the snake goddess, Wadjet. 
 
 > "We obviously tripped something in the room--rude! Sorry about that!" –W00t (Rogue)
 
-## Act II: Descent and the Waters of Ashmunda
+## Act II: Descent and Water
 ### Discovery of the Lotus Pool and Priestesses
-The downward passage led to a cool, humid sanctuary—the Lotus Pool. Here, the head priestess Ara emerged, greeting them with cryptic grace: "The lotus opens for those who wait... do you seek rest or revelation". They learned the inhabitants served Ashmunda, the goddess of "night and healing".
+> "The lotus opens for those who wait... do you seek rest or revelation?" – Elara (NPC)
+
+The downward passage led to a room with bees and then. cool, humid sanctuary—the Lotus Pool. Here, the head priestess Elara emerged from the water, greeting them with cryptic grace. Cort, always the gentleman, shared his coat. They learned the priestesses lived in the pyramid and serve Ashmunda, the goddess of "night and healing".
 
 ### Lotus Water
 > "This water is now dirty." – Ralph (Cleric)
