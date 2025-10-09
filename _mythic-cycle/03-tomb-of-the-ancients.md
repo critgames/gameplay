@@ -160,12 +160,12 @@ Elara was keen to know more about Cort and gave an invitation: "you can use my b
 The next challenge, a puzzle of water and volume, was ideally suited for the artificers. Wark correctly identified the geometry of the vessels: "the volutric size of the urn next to the statue seems to be about one liter or so and then the two containers off on the side are uh about seven and three liters".
 
 ### Triggering the Pitfall
-Wark's success in solving the math triggered immediate calamity. The floor beneath him gave way "with a terrifying instantaneous shriek and grinding stone sending you on a gut-wrenching plunge into the into the floor below". W00t, watching the failure of intellect, could not resist the observation: "he wasn't able to do the math that was not that was that was the breaking point".
+Wark's success in solving the math triggered immediate calamity. The floor beneath him gave way "with a terrifying instantaneous shriek and grinding stone sending you on a gut-wrenching plunge into the into the floor below". W00t, watching the failure of intellect, could not resist the observation: "he wasn't able to do the math--that was the breaking point".
 
 ### Combat with Giant Centipedes
-After Wark saved himself reacting with the spell Feather Fall, the party descended into the ruinous room to face monstrous Giant Centipedes. The cleric Ralph ended the first threat with divine fury, shouting, "cravy crawers and I'm going to cast guiding bolts on the big one mhm for a nat 20 to hit... 31 points of damage holy smokes it goes down."
+After Wark saved himself from being badly injured by reacting with the spell Feather Fall, the party descended into the ruinous room to face monstrous giant centipedes. The cleric Ralph ended the first threat with divine fury, shouting, "I'm going to cast guiding bolts on the big one mhm for a nat 20 to hit... 31 points of damage holy smokes it goes down."
 
-> "Ralph was only clean for eight hours!" –Cort (Paladin)
+> "Ralph, uou were only able to stay clean for eight hours!" –Cort (Paladin)
 
 ### The Rotating Bridge Chamber
 The lower level featured a massive circular chamber with a bridge spanning a pit of "writhing snakes". The party figured out that the stone cantilever would rotate to connect rooms across the pit. Asrid after finding the lever, declared: "I try to push something I can push." The platform groaned and rotated connecting them to other rooms across the pit.
