@@ -55,7 +55,7 @@ header:
 
 > "I'm the handsome one" -Wark (Artificer)
 
-> "I am maybe not the most handsome of the two that you have in your party but I am the one that is better at math and that is now canon!" –Bang (Artificer)
+> "I am maybe not the most handsome, but I am the one that is better at math and that is now canon!" –Bang (Artificer)
 
 The saga of the "Misbegotten Dust Riders" began not in glory, but in the grueling desperation of the South Desert, a land where the DM reminded them that the sands swallow empires whole. Driven by thirst, seeking "water of vital reprieve from the scorching sun", they beheld the looming pyramid of Khet-Nakor, a "tomb of forgotten gods clinging to the memory of primordial waters long stilled".
 
@@ -83,6 +83,7 @@ Has a bed, but never sleeps.<br/>
 Answer: A river.
 </details>
 
+
 <details>
 <summary>
 I have no breath, yet I whisper to all.<br/>
@@ -93,7 +94,9 @@ What am I?<br/>
 Answer: A rumor.
 </details>
 
+
 <details>
+<summary>
 I come to all, yet none call me friend.<br/>
 I wait at every journey’s end.<br/>
 No crown nor coin can buy me away.<br/>
@@ -102,11 +105,12 @@ What am I?<br/>
 Answer: Death.
 </details>
 
-Wark had riddle for Minx the Sphinx:
-> "They have not flesh nor feathers nor scales nor bones yet they have fingers and thumbs of their own what are they” —Wark (Artificer)"
+
+Wark had riddle for Mynx the Sphinx:
+> "They have not flesh nor feathers nor scales nor bones yet they have fingers and thumbs of their own what are they?” —Wark (Artificer)"
 
 ### Distracting the Rivals
-> "I don't understand why are I say this loudly to everyone why do we not want the dragon born to follow why do we not want the fortune and glory" –Cort (Paladin)
+> "I don't understand why we do not want the dragonborn to follow? Why do we not want the Fortune and Glory?" –Cort (Paladin)
 
 Knowing they could not deal with the Dragonborn inside, the party resorted to cunning. Court approached the rivals with a lie, whispering that their Sphinx "really has something she wants to tell you it's not a riddle it is about how to get in". The Dragonborn rogue starts heading down the stairs taking another with her.
 
