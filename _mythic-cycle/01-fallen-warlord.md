@@ -2,7 +2,7 @@
 layout: single
 title:  "Fallen Warlord"
 excerpt: "The mythic cycle begins!"
-date:   2025-06-30 18:00:38 -0700
+date:   2025-08-29 18:00:00 -0700
 collections: mytic-cycle
 author: critgames
 toc: true

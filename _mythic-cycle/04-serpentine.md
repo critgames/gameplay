@@ -2,7 +2,7 @@
 layout: single
 title:  "Serpentine"
 excerpt: "The pyramid's heart beats with venomous devotion."
-date:   2025-10-04 18:00:01 -0700
+date:   2025-10-08 18:00:00 -0700
 collections: mytic-cycle
 author: critgames
 toc: true

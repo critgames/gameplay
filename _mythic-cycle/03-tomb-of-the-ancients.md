@@ -2,7 +2,7 @@
 layout: single
 title:  "Tomb of the Ancients"
 excerpt: "New life from near death."
-date:   2025-09-29 18:00:38 -0700
+date:   2025-10-03 18:00:00 -0700
 collections: mytic-cycle
 author: critgames
 toc: true
