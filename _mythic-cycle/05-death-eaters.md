@@ -3,7 +3,7 @@ layout: single
 title:  "Death Eaters"
 excerpt: "Evil never dies."
 date:   2025-10-24 18:00:00 -0700
-collections: mytic-cycle
+collections: mythic-cycle
 author: critgames
 toc: true
 header:
@@ -76,6 +76,7 @@ The pale mistress delivered her decree of retribution: "we shall kill him," but 
 The necromancer Frogs Delight Bone Rattler, along with his goblin companions, then conducted a bloodrite in an ancient graveyard to open the mausoleum gate from Sheol. The necromancer resurrected the shades by identifying their graves using riddles and placing an object related to their deadly sin upon the tomb—a golden bracelet for Envy, a senet ring for Greed, and a flipbook of goblinetses for Lust. Finally, the necromancer sacrificed all his goblin friends in a bloodrite across the mausoleum doors, unleashing the Death Eaters into the material world.
 
 ## All Shades
+
 | Sin | Title | Description |
 | :---: | :---: | :--- |
 | 🐍 Envy | The Covetous Shade | Envy studies your every move, coveting what you have and twisting it against you. Nothing is safe when this shadow stalks the battlefield. It can turn your own strengths into your greatest weakness. |
@@ -127,11 +128,11 @@ A hunched figure responded to the loud, collective call of his name, opening the
 He was met instantly by the Shade's fury. Pride rushed forward, his arms flailing, manifesting radiant blades that criss-crossed Eros's body. Envy, copying the action and consumed by covetous desire to inflict superior harm, followed with a Multi-Claw Strike. Extending giant, sharpened fingernails like razors, Envy sliced across the Shadar Kai's torso in a grotesque V-pattern.
 The old man's body offered no resistance. Eros perished instantly. As the body crumpled, Gluttony was upon him, consuming the former cleric entirely (Feast Unending).
 
-## The Monk: Marius
+## The Gambling Monk: Marius (Monk)
 The Shades located their Third Target, Marius the Monk, at a bustling port. He was inside a dockside building, deeply involved in a high-stakes game of Bones with three pirates who were also slavers.
 Greed, the Gilded Ma, entered the gaming house and observed the large pot of gold, silver, and pearls at the center of the table. He did not wait for the game to end. Using his Mine All Mine ability, the insatiable collector teleported the entire kitty—the gold pot—into his hand. Marius, the swift and unarmed Monk, reacted instantly. He used his monk skills to slice off Greed's hand. The combat was joined. Gluttony rushed in, motivated by the promise of "more food". He attacked the surrounding pirates/slavers first, neatly killing all three of the vile men. As Marius stood, having achieved his goal—the death of the slavers—Pride stepped forward. The Exalted Shade delivered his Radiant Blade Multiattack directly into Marius's face. Marius suffered the triple blow, a single hit connecting with the force to destroy his face. As Marius passed on, his final, defiant words echoed in the smoky room: "At least the slavers are dead".
 
-## The Warrior: Honk
+## The Downed Warrior: Honk (Barbarian)
 The Fourth Target was the renowned Goliath warrior, Honk. The Shades tracked him to a dismal battlefield, where he lay severely wounded, sprawled amongst dozens of slain soldiers. His armor was broken, and his blood coated the ground, creating a dark, sticky mud.
 Honk looked up as the Shades gathered, asking with a low, guttural whistle of breath, "Are you the angel of death come to take me away?". There was no time for an answer. The Shades pummeled the fallen Goliath. Lust struck first, her Piercer Kiss connecting for a staggering 48 damage. Gluttony followed immediately, attempting to swallow the Goliath in his Engulf and Digest attack, dealing 41 damage. Meanwhile, Greed moved in, using Mine All Mine to successfully steal Honk's prized Vasodilator. The Shade's relentless assault, combined with his battlefield wounds, finally claimed the Goliath. Honk did not curse or cry out. He died laughing, saying with shuddering breaths:
 
