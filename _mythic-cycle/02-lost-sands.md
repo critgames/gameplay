@@ -3,7 +3,7 @@ layout: single
 title:  "Lost Sands"
 excerpt: "Born in the sandy desert."
 date:   2025-09-12 18:00:00 -0700
-collections: mytic-cycle
+collections: mythic-cycle
 author: critgames
 toc: true
 header:
