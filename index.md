@@ -42,6 +42,9 @@ header:
 
 > Sundry settings and various themed games often exploring different game systems and mechanics. One-shots are single, self-contained adventures.
 
+### [Glitter, Greed, and Grimfield]({{'/one-shots/glitter-greed-and-grimfield/'  | relative_url }})
+<a href="./one-shots/glitter-greed-and-grimfield/" title="Glitter, Greed, and Grimfield">![Glitter, Greed, and Grimfield]({{'/assets/images/glitter-greed-and-grimfield/header.webp' | relative_url }})</a>
+
 ### [Insert Coin To Play]({{'/one-shots/insert-coin-to-play/'  | relative_url }})
 <a href="./one-shots/insert-coin-to-play/" title="Insert Coin To Play">![Insert Coin To Play]({{'/assets/images/insert-coin-to-play/header.webp' | relative_url }})</a>
 
