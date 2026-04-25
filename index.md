@@ -24,7 +24,7 @@ header:
 
 ## Mythic Cycle
 
-### [Season 3: Mythic Cycle]({{'/mythic-cycle' | relative_url }})
+### [Season 3 & 4: Mythic Cycle]({{'/mythic-cycle' | relative_url }})
 <a href="./mythic-cycle/" title="Mythic Cycle">![Mythic Cycle]({{ '/assets/images/mythic-cycle/banner.webp' | relative_url }})</a>
 
 ## Wilderun
