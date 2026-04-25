@@ -27,7 +27,7 @@ title_separator: "-"
 # URL
 baseurl: "/gameplay"
 url: "https://critgames.com"
-logo: "/assets/images/logo.png"
+logo: "https://critgames.com/gameplay/assets/images/logo.png"
 
 # Scripts
 head_scripts:
