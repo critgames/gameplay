@@ -3,7 +3,7 @@ layout: single
 title:  "Bridge of Destiny"
 excerpt: "Crossing a rope bridge without a Bang."
 date:   2026-05-08 18:00:00 -0700
-collections: mythic-cycle
+collection: mythic-cycle
 author: critgames
 toc: true
 header:

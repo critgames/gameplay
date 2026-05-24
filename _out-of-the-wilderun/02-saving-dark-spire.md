@@ -3,7 +3,7 @@ layout: single
 title:  "Saving Dark Spire"
 excerpt: "Having followed the villagers that fled, our characters find themselves in a dark cave with dangers in the shadows."
 date:   2025-05-03 18:00:38 -0700
-collections: out-of-the-wilderun
+collection: out-of-the-wilderun
 author: critgames
 toc: true
 header:

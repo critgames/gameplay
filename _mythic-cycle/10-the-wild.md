@@ -3,7 +3,7 @@ layout: single
 title:  "The Wild"
 excerpt: "Welcome to the jungle."
 date:   2026-05-22 18:00:00 -0700
-collections: mythic-cycle
+collection: mythic-cycle
 author: critgames
 toc: true
 header:

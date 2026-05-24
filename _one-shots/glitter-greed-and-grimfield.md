@@ -3,7 +3,7 @@ layout: single
 title:  "Glitter, Greed, and Grimfield"
 excerpt: "Step into the bustling chaos of Grimfield, where a chest of gold and a legendary magical crystal are about to turn a simple errand into a high-stakes race against mages, mercenaries, and exploding ale."
 date:   2025-12-17 18:00:00 -0700
-collections: one-shots
+collection: one-shots
 author: critgames
 toc: true
 header:

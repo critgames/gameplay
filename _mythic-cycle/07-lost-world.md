@@ -3,7 +3,7 @@ layout: single
 title:  "Lost World"
 excerpt: "Arrival at the Lost World and defending the basecamp."
 date:   2026-03-28 18:00:00 -0700
-collections: mythic-cycle
+collection: mythic-cycle
 author: critgames
 toc: true
 header:

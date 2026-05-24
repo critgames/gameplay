@@ -3,7 +3,7 @@ layout: single
 title:  "A Fork in the Road"
 excerpt: "Our adventures make a critical choice."
 date:   2025-05-28 18:00:38 -0700
-collections: out-of-the-wilderun
+collection: out-of-the-wilderun
 author: critgames
 toc: true
 header:

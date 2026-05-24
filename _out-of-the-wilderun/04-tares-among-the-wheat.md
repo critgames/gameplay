@@ -3,7 +3,7 @@ layout: single
 title:  "Tares Among The Wheat"
 excerpt: "In Goldenfields, but wishing you were in Waterdeep."
 date:   2025-06-20 18:00:38 -0700
-collections: out-of-the-wilderun
+collection: out-of-the-wilderun
 author: critgames
 toc: true
 header:

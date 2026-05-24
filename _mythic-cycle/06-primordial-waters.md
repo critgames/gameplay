@@ -3,7 +3,7 @@ layout: single
 title:  "Primordial Waters"
 excerpt: "Unleashing the water under the tomb."
 date:   2025-10-26 18:00:00 -0700
-collections: mythic-cycle
+collection: mythic-cycle
 author: critgames
 toc: true
 header:

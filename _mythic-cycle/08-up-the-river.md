@@ -3,7 +3,7 @@ layout: single
 title:  "Up The River"
 excerpt: "Full steam ahead while leaving humanity behind."
 date:   2026-04-24 18:00:00 -0700
-collections: mythic-cycle
+collection: mythic-cycle
 author: critgames
 toc: true
 header:

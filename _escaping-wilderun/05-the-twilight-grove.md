@@ -3,7 +3,7 @@ layout: single
 title:  "The Twilight Grove"
 excerpt: "The party makes it to the Twilight Grove!"
 date:   2025-03-07 18:00:00 -0700
-collections: escaping-wilderun
+collection: escaping-wilderun
 author: critgames
 toc: true
 header:

@@ -3,7 +3,7 @@ layout: single
 title:  "The Sunken Citadel"
 excerpt: "The menagerie has found and entered the Sunken Citadel. What secrets have they yet to uncover?"
 date:   2025-01-24 18:30:38 -0700
-collections: escaping-wilderun
+collection: escaping-wilderun
 author: critgames
 toc: true
 header:

@@ -3,7 +3,7 @@ layout: single
 title:  "Insert Coin To Play"
 excerpt: "Prepare to die. Again and again."
 date:   2025-06-30 18:00:00 -0700
-collections: one-shots
+collection: one-shots
 author: critgames
 toc: true
 header:

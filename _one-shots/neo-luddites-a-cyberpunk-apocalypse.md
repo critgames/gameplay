@@ -3,7 +3,7 @@ layout: single
 title:  "Neo-Luddites: A Cyberpunk Apocalypse"
 excerpt: "In a gritty cyberpunk dystopia, a biocorporation's sinister plot to control the future of tech leads to a devastating apocalypse."
 date:   2025-04-11 18:30:38 -0700
-collections: one-shots
+collection: one-shots
 author: critgames
 toc: true
 header:

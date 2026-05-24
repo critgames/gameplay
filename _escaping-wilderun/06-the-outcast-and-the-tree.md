@@ -3,7 +3,7 @@ layout: single
 title:  "The Outcast And The Tree"
 excerpt: "The party confronts the outcast in the twilight grove!"
 date:   2025-03-28 9:30:38 -0700
-collections: escaping-wilderun
+collection: escaping-wilderun
 author: critgames
 toc: true
 header:

@@ -3,7 +3,7 @@ layout: single
 title:  "Out of the Wilderun"
 excerpt: "The party travels beyond the wilderun!"
 date:   2025-04-20 18:00:38 -0700
-collections: out-of-the-wilderun
+collection: out-of-the-wilderun
 author: critgames
 toc: true
 header:

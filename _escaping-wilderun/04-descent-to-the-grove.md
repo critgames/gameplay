@@ -3,7 +3,7 @@ layout: single
 title:  "Descent to the Grove"
 excerpt: "What menaces await underneath the Sunken Citadel?"
 date:   2025-02-21 18:30:38 -0700
-collections: escaping-wilderun
+collection: escaping-wilderun
 author: critgames
 toc: true
 header:

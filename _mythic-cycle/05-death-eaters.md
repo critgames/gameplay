@@ -3,7 +3,7 @@ layout: single
 title:  "Death Eaters"
 excerpt: "Evil never dies."
 date:   2025-10-24 18:00:00 -0700
-collections: mythic-cycle
+collection: mythic-cycle
 author: critgames
 toc: true
 header:

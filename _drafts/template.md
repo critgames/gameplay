@@ -3,7 +3,7 @@ layout: single
 title:  "<TITLE>"
 excerpt: "<EXCERPT>"
 date:   2025-01-17 18:30:38 -0700
-collections: one-shot
+collection: one-shot
 author: critgames
 toc: true
 header:
