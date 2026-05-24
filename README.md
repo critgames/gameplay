@@ -13,7 +13,7 @@ This website is made with [Jeykll](https://jekyllrb.com/) and automatically upda
 
 ### Run Website Locally
 ```
-$ bundle exec jekyll serve --force_polling
+$ bundle exec jekyll serve --force_polling --future
 ```
 
 ### Rebuild
