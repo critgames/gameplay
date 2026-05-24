@@ -2,7 +2,7 @@
 layout: single
 title:  "Fishmen"
 excerpt: "Smugglers and webbed warbands."
-date:   2026-05-23 18:00:00 -0700
+date:   2026-06-09 18:00:00 -0700
 collections: mythic-cycle
 author: critgames
 toc: true
