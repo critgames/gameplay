@@ -14,7 +14,7 @@ header:
       url: "https://www.youtube.com/@CritGamesllc?sub_confirmation=1"
 ---
 
-# The Wild
+# Fishmen
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/uMWqb2pmrUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 *View all episodes in [Mythic Cycle]({{'/mythic-cycle' | relative_url }}).*
 
