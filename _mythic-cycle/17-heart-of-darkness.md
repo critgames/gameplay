@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "Heart of Darkness"
-excerpt: "At the heart of the jungle, our heroes of the full extant of the darkness."
-date:   2026-23-09 18:00:00 -0700
+excerpt: "At the heart of the jungle, our heroes unveil the full extant of the darkness."
+date:   2026-10-23 18:00:00 -0700
 collection: mythic-cycle
 author: critgames
 toc: true
@@ -19,6 +19,6 @@ header:
 *View all episodes in [Mythic Cycle]({{'/mythic-cycle' | relative_url }}).*
 
 ## Season 5: Episode 4
-> Arriving at the heart of the jungle, the heroes learn how deep the abyss goes.
+> Arriving at the heart of the jungle, the heroes learn how deep the chaos goes.
 
 When the boundaries of civilization are taken away, the horror of what lies beneath is revealed. The heroes learn who is this man they have been seeking all this time called Knox--bottomless ambition, unbridled greed, and fierce monstrosity. Will the heroes recover from their gaze into the abyss? Will they survive the relentless undead?
