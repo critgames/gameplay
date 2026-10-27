@@ -1,6 +1,6 @@
 # Gameplay
 [<img alt="Streaming Gameplay" src="assets/images/headers/dungeon.webp" />](https://github.com/critgames/gameplay)
-**Website for tabletop roleplaying games actual play on [critgames.com/gameplay](https://critgames.com/gameplay)**
+**Website for tabletop roleplaying games actual play on [gameplay.critgames.com](https://gameplay.critgames.com)**
 
 ## Watch Episodes
 *Streaming live episodes on [YouTube](http://youtube.critgames.com) and [Twitch](http://twitch.critgames.com). Join us every other week on Friday at 6:00 PM (Pacific Time).*

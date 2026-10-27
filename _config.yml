@@ -25,9 +25,9 @@ subtitle: "Game On!"
 title_separator: "-"
 
 # URL
-baseurl: "/gameplay"
-url: "https://critgames.com"
-logo: "https://critgames.com/gameplay/assets/images/logo.png"
+baseurl: ""
+url: "https://gameplay.critgames.com"
+logo: "https://gameplay.critgames.com/assets/images/logo.png"
 
 # Scripts
 head_scripts:
