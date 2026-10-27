@@ -16,7 +16,7 @@ header:
 
 # Descention of the Innocents
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/xH3zDsmnC9E?si=2biDqYVYknQHd6af" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-*View all episodes in [Mythic Cycle]({{'/mythic-cycle' | relative_url }}).*
+*View all episodes in [Mythic Cycle]({{'/mythic-cycle/' | relative_url }}).*
 
 ## Season 4: Episode 7
 > The heroes fend off an undead warband lead by two of Iron Helm’s Lieutenants while a Kua-Toa priestess descends to save the whelps!

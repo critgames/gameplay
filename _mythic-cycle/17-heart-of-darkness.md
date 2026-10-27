@@ -16,7 +16,7 @@ header:
 
 # Heart of Darkness
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/UhYw3ESXMf8?si=1yT2DyB_gSakd_Cb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-*View all episodes in [Mythic Cycle]({{'/mythic-cycle' | relative_url }}).*
+*View all episodes in [Mythic Cycle]({{'/mythic-cycle/' | relative_url }}).*
 
 ## Season 5: Episode 4
 > Arriving at the heart of the jungle, the heroes learn how deep the chaos goes.

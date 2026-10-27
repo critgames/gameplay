@@ -16,7 +16,7 @@ header:
 
 # Bridge of Destiny
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/1JkkBQyvzq8?si=16Qt-kTjvcN4mNxJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-*View all episodes in [Mythic Cycle]({{'/mythic-cycle' | relative_url }}).*
+*View all episodes in [Mythic Cycle]({{'/mythic-cycle/' | relative_url }}).*
 
 ## Season 4: Episode 3
 > After a heart-to-heart, the Capable Hands rests overnight at the waterfall's edge. In the morning they bid goodbye to Uncle Bjorn and sclae the steep volcanic basalt steps. At the summit, they cross a dizzingly high rope bridge and get attacked by mirco rapters ultimately losing Bang to the perils of the Jungle far below.

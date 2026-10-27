@@ -16,7 +16,7 @@ header:
 
 # Fallen Warlord
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/6UespqUvQq8?si=Busy5vjqYubhi1ut&t=238" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-*A new mythic cycle begins for [season three]({{'/mythic-cycle' | relative_url }})!*
+*A new mythic cycle begins for [season three]({{'/mythic-cycle/' | relative_url }})!*
 
 > Welcome to the dawn of a new saga in a realm shimmering with magic, fraught with monsters, and brimming with spectacular adventure. We stand at a pivotal moment in history, where new conflicts foment and ancient ones echo.
 >

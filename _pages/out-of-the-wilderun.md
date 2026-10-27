@@ -21,4 +21,4 @@ header:
 # Episodes
 ---
 
-> In Season Two our heroes travel beyond the Wilderun. Miss the first season? Watch [Season One: Escaping Wilderun]({{ '/escaping-wilderun' | relative_url }}) for the mysterious origin story and to learn how the party escaped the Wilderun!
+> In Season Two our heroes travel beyond the Wilderun. Miss the first season? Watch [Season One: Escaping Wilderun]({{ '/escaping-wilderun/' | relative_url }}) for the mysterious origin story and to learn how the party escaped the Wilderun!

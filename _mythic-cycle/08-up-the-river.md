@@ -16,7 +16,7 @@ header:
 
 # Up The River
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/xl0uoghEhac?si=f1otj2vwiLgq_coI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-*View all episodes in [Mythic Cycle]({{'/mythic-cycle' | relative_url }}).*
+*View all episodes in [Mythic Cycle]({{'/mythic-cycle/' | relative_url }}).*
 
 ## Season 4: Episode 2
 > What happens when you put our heroes on a tiny steamboat and send them deep into the heart of a prehistoric jungle?

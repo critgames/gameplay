@@ -24,15 +24,15 @@ header:
 
 ## Mythic Cycle
 
-### [Season 3 & 4: Mythic Cycle]({{'/mythic-cycle' | relative_url }})
+### [Season 3 & 4: Mythic Cycle]({{'/mythic-cycle/' | relative_url }})
 <a href="./mythic-cycle/" title="Mythic Cycle">![Mythic Cycle]({{ '/assets/images/mythic-cycle/banner.webp' | relative_url }})</a>
 
 ## Wilderun
 
-### [Season 2: Out of the Wilderun]({{'/out-of-the-wilderun' | relative_url }})
+### [Season 2: Out of the Wilderun]({{'/out-of-the-wilderun/' | relative_url }})
 <a href="./out-of-the-wilderun/" title="Out of the Wilderun">![Escaping Wilderun]({{ '/assets/images/out-of-the-wilderun/header.webp' | relative_url }})</a>
 
-### [Season 1: Escaping Wilderun]({{'/escaping-wilderun' | relative_url }})
+### [Season 1: Escaping Wilderun]({{'/escaping-wilderun/' | relative_url }})
 <a href="./escaping-wilderun/" title="Escaping Wilderun">![Escaping Wilderun]({{ '/assets/images/escaping-wilderun/header.webp' | relative_url }})</a>
 
 <br />

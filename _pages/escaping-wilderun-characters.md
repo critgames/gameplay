@@ -109,8 +109,8 @@ His piercing eyes, a deep green with warm brown, are framed by thick, dark lashe
 
 # Wilderun
 
-## [Season 1: Escaping Wilderun]({{'/escaping-wilderun' | relative_url }})
+## [Season 1: Escaping Wilderun]({{'/escaping-wilderun/' | relative_url }})
 <a href="{{'/escaping-wilderun/' | relative_url }}" title="Escaping Wilderun">![Escaping Wilderun]({{ '/assets/images/escaping-wilderun/header.webp' | relative_url }})</a>
 
-## [Season 2: Out of the Wilderun]({{'/out-of-the-wilderun' | relative_url }})
+## [Season 2: Out of the Wilderun]({{'/out-of-the-wilderun/' | relative_url }})
 <a href="{{'/out-of-the-wilderun/' | relative_url }}" title="Out of the Wilderun">![Out of the Wilderun]({{ '/assets/images/out-of-the-wilderun/header.webp' | relative_url }})</a>

@@ -16,7 +16,7 @@ header:
 
 # Earthbound
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/aMFE9M1Oeh8?si=aUlnl_z6z0aciNXD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-*View all episodes in [Mythic Cycle]({{'/mythic-cycle' | relative_url }}).*
+*View all episodes in [Mythic Cycle]({{'/mythic-cycle/' | relative_url }}).*
 
 ## Season 5: Episode 2
 > Deeper into the island's primeval interior and farther from civilization!

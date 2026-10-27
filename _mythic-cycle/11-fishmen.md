@@ -16,7 +16,7 @@ header:
 
 # Fishmen
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/uMWqb2pmrUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-*View all episodes in [Mythic Cycle]({{'/mythic-cycle' | relative_url }}).*
+*View all episodes in [Mythic Cycle]({{'/mythic-cycle/' | relative_url }}).*
 
 ## Season 4: Episode 5
 > What happens when you fall 600 feet from an airship directly into a chaotic jungle battlefield?

@@ -16,7 +16,7 @@ header:
 
 # Lost World
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/2r-YsZRImso?si=a7LDTKLdKpDZ_Sbi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-*View all episodes in [Mythic Cycle]({{'/mythic-cycle' | relative_url }}).*
+*View all episodes in [Mythic Cycle]({{'/mythic-cycle/' | relative_url }}).*
 
 ## Season 4: Episode 1
 > In this epic episode, the party takes on their most dangerous and clandestine mission yet for the South Trading Company! They must survive a furious ocean storm, a narcoleptic ship captain, and a grueling journey to the dreaded "Lost World" to hunt down a rogue mining agent. But nothing could prepare them for the absolute chaos that attacks the base camp walls on their very first night watch. Will the party's makeshift defenses hold up through the night of their lives? Watch to find out if their capable hands can survive the deadliest night of their lives!

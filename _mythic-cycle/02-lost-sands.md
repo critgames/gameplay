@@ -19,7 +19,7 @@ header:
 
 *Watch [Part 2]("https://www.youtube.com/embed/fCWug8dkkKI?si=bmhZAMDr3ubIudHw") (after stream went down)*
 
-*View all episodes in [season three]({{'/mythic-cycle' | relative_url }}).*
+*View all episodes in [season three]({{'/mythic-cycle/' | relative_url }}).*
 
 > The Mythic Cycle turns again, beginning Season Three's main adventure with the player characters stranded in the South Desert (also referred to as the SudenLund or South Lands). The adventurers are working for the Maercant's South Trading Company, tasked with securing trade routes in the treacherous wastes. Facing brutal desert hazards, including scorpions and a massive sandstorm that wipes out the majority of their caravan, the characters become destitute. Their desperate trek leads to the discovery of the half-buried step-pyramid known as the Tomb of the Ancients, the location of the lost city of Khet-Nakor, which is ruled by rival cults. The ultimate objective is survival, seeking refuge in the ancient tomb, and preparing to navigate the faction politics within the lost city.
 > 

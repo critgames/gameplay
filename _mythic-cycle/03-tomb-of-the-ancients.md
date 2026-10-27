@@ -16,7 +16,7 @@ header:
 
 # Tomb of the Ancients
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/XK-qiEku4CE?si=e_FdmXri4vYnLi7Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-*View all episodes in [season three]({{'/mythic-cycle' | relative_url }}).*
+*View all episodes in [season three]({{'/mythic-cycle/' | relative_url }}).*
 
 > Welcome, adventurers, to the sun-baked wastes of the South Desert, a land where the wind whispers forgotten names and the sands swallow empires whole.
 > 

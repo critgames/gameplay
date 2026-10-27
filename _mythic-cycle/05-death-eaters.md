@@ -19,7 +19,7 @@ header:
 
 *Watch [Part 2]("https://www.youtube.com/embed/1yAkO4qmH6s?si=ak8FegQbj7_jbGvS")*
 
-*View all episodes in [season three]({{'/mythic-cycle' | relative_url }}).*
+*View all episodes in [season three]({{'/mythic-cycle/' | relative_url }}).*
 
 ## Episode 5
 > Evil never dies. Never sleeps. Never satiates. Ever listful.
