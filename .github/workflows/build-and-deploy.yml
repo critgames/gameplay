@@ -30,3 +30,16 @@ jobs:
           bucket: 'gameplay.critgames.com'
           sync_dir_from: '_site'
           exclude: '.*\.md$|\.gitignore$|\.git/.*$|\.github/.*$'
+      - name: Set up gcloud
+        uses: google-github-actions/setup-gcloud@v2
+      - name: Short cache for HTML and feeds
+        # The sync above uploads with Cloud Storage's default `public, max-age=3600`, so a deploy could take up to an
+        # hour to show. Pages and feeds get 60 seconds; images, CSS and JS keep the hour.
+        env:
+          CREDS: ${{ secrets.google_service_account_credentials }}
+        run: |
+          # The secret may be base64-encoded (as the sync action accepts) or plain JSON.
+          if printf '%s' "$CREDS" | base64 -d > "$RUNNER_TEMP/key.json" 2>/dev/null && jq -e .client_email "$RUNNER_TEMP/key.json" >/dev/null 2>&1; then :; else printf '%s' "$CREDS" > "$RUNNER_TEMP/key.json"; fi
+          gcloud auth activate-service-account --key-file="$RUNNER_TEMP/key.json"
+          gcloud storage objects update "gs://gameplay.critgames.com/**.html" "gs://gameplay.critgames.com/*.xml" --cache-control="public, max-age=60"
+          rm -f "$RUNNER_TEMP/key.json"
