@@ -41,3 +41,9 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Theme
 gem "minimal-mistakes-jekyll"
+
+# Ruby 3.4 no longer ships these with Ruby itself; Jekyll 4.3 still needs them
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"

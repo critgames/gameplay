@@ -14,7 +14,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1'  # Use the appropriate Ruby version for your project
+          ruby-version: '.ruby-version'  # same Ruby as Cloudflare Pages and local builds
       - name: Install dependencies
         run: |
           gem install bundler
